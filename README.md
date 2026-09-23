@@ -10,7 +10,6 @@ performance, including player damage comparisons, damage changes,
 healing received, interrupts, and other encounter metrics.
 
 ![Raid Overview](Raid%20Overview.png)
-
 ## Boss Performance
 
 The Boss Performance page focuses on encounter-level performance,
