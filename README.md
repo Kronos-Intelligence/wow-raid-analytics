@@ -31,6 +31,32 @@ The analysis is organized into four dashboard pages:
 4. **Utility & Survivability**
 
 ---
+## How to Explore the Project
+
+### 1. Review the Data
+
+See [`/data`](./data) for the prepared analytical CSV datasets used by the Power BI model.
+
+### 2. Review the Python Pipeline
+
+See [`/python`](./python) for the scripts used for data extraction, transformation, classification, validation, and analytical dataset construction.
+
+### 3. Review the Data Model
+
+See [`/docs`](./docs) for the data dictionary and Power BI data-model documentation.
+
+### 4. Explore the Dashboard
+
+Open [`Wow_analytics_Dashboard_v2.pbix`](./powerbi/Wow_analytics_Dashboard_v2.pbix) in Power BI Desktop to explore the interactive dashboard and underlying model.
+
+### 5. View Dashboard Screenshots
+
+See [`/screenshots`](./screenshots) for representative views of the four dashboard pages:
+
+- Raid Overview
+- Boss Performance
+- Player Performance
+- Utility & Survivability
 
 # Dashboard Architecture
 
