@@ -1,0 +1,827 @@
+﻿report_code,fight_id,player_id,player_name,interrupted_ability,interrupting_ability,count
+1aJTBNphf8C4jGbr,12,10,Lìllith,Shadow Fracture,Axe Toss,2
+1aJTBNphf8C4jGbr,12,21,Demonbläde,Shadow Fracture,Disrupt,2
+1aJTBNphf8C4jGbr,12,16,Error,Shadow Fracture,Rebuke,1
+1aJTBNphf8C4jGbr,12,27,Danzilla,Shadow Fracture,Counter Shot,2
+1aJTBNphf8C4jGbr,12,13,Siare,Shadow Fracture,Axe Toss,5
+1aJTBNphf8C4jGbr,12,11,Decayed,Shadow Fracture,Mind Freeze,1
+1aJTBNphf8C4jGbr,12,4,Asharia,Shadow Fracture,Disrupt,2
+1aJTBNphf8C4jGbr,12,1,Primeval,Shadow Fracture,Wind Shear,6
+1aJTBNphf8C4jGbr,12,6,Sinfxl,Shadow Fracture,Counterspell,4
+1aJTBNphf8C4jGbr,12,12,Grapefroot,Shadow Fracture,Muzzle,1
+1aJTBNphf8C4jGbr,12,12,Grapefroot,Shadow Fracture,Intimidation,1
+1aJTBNphf8C4jGbr,12,15,Monfro,Shadow Fracture,Counter Shot,3
+1aJTBNphf8C4jGbr,16,10,Lìllith,Voidbolt,Axe Toss,1
+1aJTBNphf8C4jGbr,16,2,Averlis,Voidbolt,Solar Beam,1
+1aJTBNphf8C4jGbr,16,27,Danzilla,Voidbolt,Counter Shot,2
+1aJTBNphf8C4jGbr,16,20,Spàdes,Voidbolt,Shockwave,6
+1aJTBNphf8C4jGbr,16,20,Spàdes,Voidbolt,Pummel,3
+1aJTBNphf8C4jGbr,16,22,Mannarchy,Voidbolt,Rebuke,1
+1aJTBNphf8C4jGbr,16,22,Mannarchy,Voidbolt,Avenger's Shield,1
+1aJTBNphf8C4jGbr,16,4,Asharia,Voidbolt,Disrupt,2
+1aJTBNphf8C4jGbr,16,1,Primeval,Voidbolt,Wind Shear,1
+1aJTBNphf8C4jGbr,16,12,Grapefroot,Voidbolt,Muzzle,2
+1aJTBNphf8C4jGbr,17,10,Lìllith,Voidbolt,Shadowfury,7
+1aJTBNphf8C4jGbr,17,10,Lìllith,Voidbolt,Axe Toss,1
+1aJTBNphf8C4jGbr,17,2,Averlis,Voidbolt,Solar Beam,1
+1aJTBNphf8C4jGbr,17,199,Maackuu,Voidbolt,Leg Sweep,9
+1aJTBNphf8C4jGbr,17,27,Danzilla,Voidbolt,Counter Shot,3
+1aJTBNphf8C4jGbr,17,11,Decayed,Voidbolt,Mind Freeze,3
+1aJTBNphf8C4jGbr,17,20,Spàdes,Voidbolt,Shockwave,21
+1aJTBNphf8C4jGbr,17,20,Spàdes,Voidbolt,Pummel,3
+1aJTBNphf8C4jGbr,17,22,Mannarchy,Voidbolt,Rebuke,1
+1aJTBNphf8C4jGbr,17,22,Mannarchy,Voidbolt,Hammer of Justice,1
+1aJTBNphf8C4jGbr,17,22,Mannarchy,Voidbolt,Avenger's Shield,1
+1aJTBNphf8C4jGbr,17,4,Asharia,Voidbolt,Disrupt,1
+1aJTBNphf8C4jGbr,17,12,Grapefroot,Voidbolt,Muzzle,6
+1aJTBNphf8C4jGbr,17,15,Monfro,Voidbolt,Counter Shot,5
+1aJTBNphf8C4jGbr,21,21,Demonbläde,Blinding Light,Disrupt,1
+1aJTBNphf8C4jGbr,21,4,Asharia,Blinding Light,Disrupt,1
+1aJTBNphf8C4jGbr,22,4,Asharia,Blinding Light,Disrupt,2
+1aJTBNphf8C4jGbr,23,6,Sinfxl,Blinding Light,Counterspell,1
+1Pwx2hQvg7cDZbC9,15,103,Mydrood,Possession Barrage,Typhoon,1
+1Pwx2hQvg7cDZbC9,29,4,Shockabeotch,Icebound Flames,Wind Shear,2
+1Pwx2hQvg7cDZbC9,29,113,Quetzalli,Icebound Flames,Spear Hand Strike,1
+1Pwx2hQvg7cDZbC9,29,97,Dshivà,Icebound Flames,Rebuke,1
+1Pwx2hQvg7cDZbC9,29,151,Raginbull,Icebound Flames,Pummel,1
+1Pwx2hQvg7cDZbC9,29,94,Squalliiv,Icebound Flames,Rebuke,2
+1Pwx2hQvg7cDZbC9,29,96,Demonvini,Icebound Flames,Disrupt,5
+1Pwx2hQvg7cDZbC9,29,103,Mydrood,Icebound Flames,Solar Beam,1
+1Pwx2hQvg7cDZbC9,41,107,Felphantomxx,Eternal Nightfall,Disrupt,1
+1Pwx2hQvg7cDZbC9,41,97,Dshivà,Eternal Nightfall,Rebuke,1
+1Pwx2hQvg7cDZbC9,41,151,Raginbull,Eternal Nightfall,Pummel,1
+1Pwx2hQvg7cDZbC9,42,97,Dshivà,Eternal Nightfall,Rebuke,1
+1Pwx2hQvg7cDZbC9,42,224,Jüggernäut,Eternal Nightfall,Skull Bash,2
+2Hn6qhfTFaYytXrD,2,15,Keanuleaves,Possession Barrage,Typhoon,1
+31PjbgTG8KDC9JBh,1,4,Dystrophee,Blinding Light,Mind Freeze,1
+31PjbgTG8KDC9JBh,1,15,Grapefroot,Blinding Light,Muzzle,3
+31PjbgTG8KDC9JBh,4,19,Maztajake,Dark Hand,Typhoon,1
+31PjbgTG8KDC9JBh,4,13,Dahlela,Void Barrage,Silence,2
+31PjbgTG8KDC9JBh,4,6,Decayed,Void Barrage,Mind Freeze,4
+31PjbgTG8KDC9JBh,4,7,Deseral,Void Barrage,Quell,3
+31PjbgTG8KDC9JBh,4,9,Primeval,Void Barrage,Wind Shear,1
+31PjbgTG8KDC9JBh,4,11,Ilidank,Void Barrage,Disrupt,3
+31PjbgTG8KDC9JBh,4,11,Ilidank,Void Barrage,Void Nova,2
+31PjbgTG8KDC9JBh,4,10,Whilton,Void Barrage,Skull Bash,1
+31PjbgTG8KDC9JBh,4,4,Dystrophee,Void Barrage,Mind Freeze,3
+31PjbgTG8KDC9JBh,4,14,Mannarchy,Void Barrage,Avenger's Shield,4
+31PjbgTG8KDC9JBh,4,14,Mannarchy,Void Barrage,Rebuke,1
+31PjbgTG8KDC9JBh,4,15,Grapefroot,Void Barrage,Muzzle,2
+31PjbgTG8KDC9JBh,5,6,Decayed,Void Barrage,Mind Freeze,1
+31PjbgTG8KDC9JBh,5,7,Deseral,Void Barrage,Quell,1
+31PjbgTG8KDC9JBh,5,11,Ilidank,Void Barrage,Disrupt,1
+31PjbgTG8KDC9JBh,5,4,Dystrophee,Void Barrage,Mind Freeze,1
+31PjbgTG8KDC9JBh,5,14,Mannarchy,Void Barrage,Avenger's Shield,1
+31PjbgTG8KDC9JBh,5,103,Sinfxl,Void Barrage,Counterspell,2
+31PjbgTG8KDC9JBh,5,15,Grapefroot,Void Barrage,Muzzle,3
+3gymwM9c2Av4Xk6r,10,1,Decayed,Void Barrage,Blinding Sleet,2
+3gymwM9c2Av4Xk6r,10,1,Decayed,Void Barrage,Mind Freeze,1
+3gymwM9c2Av4Xk6r,10,6,Panes,Void Barrage,Rebuke,1
+3gymwM9c2Av4Xk6r,10,15,Meowrawrxo,Void Barrage,Skull Bash,1
+3gymwM9c2Av4Xk6r,10,17,Asharia,Void Barrage,Disrupt,3
+3gymwM9c2Av4Xk6r,10,17,Asharia,Void Barrage,Void Nova,1
+3gymwM9c2Av4Xk6r,10,3,Sinfxl,Void Barrage,Counterspell,1
+3gymwM9c2Av4Xk6r,10,19,Danzilla,Void Barrage,Counter Shot,1
+3gymwM9c2Av4Xk6r,13,21,Averlis,Ravenous Abyss,Typhoon,1
+3gymwM9c2Av4Xk6r,14,1,Decayed,Void Barrage,Mind Freeze,1
+3gymwM9c2Av4Xk6r,14,6,Panes,Void Barrage,Rebuke,1
+3gymwM9c2Av4Xk6r,14,14,Cryonox,Void Barrage,Mind Freeze,2
+3gymwM9c2Av4Xk6r,14,15,Meowrawrxo,Void Barrage,Skull Bash,1
+3gymwM9c2Av4Xk6r,14,3,Sinfxl,Void Barrage,Counterspell,1
+3gymwM9c2Av4Xk6r,14,21,Averlis,Void Barrage,Typhoon,1
+3gymwM9c2Av4Xk6r,15,21,Averlis,Interrupting Tremor,Typhoon,1
+3gymwM9c2Av4Xk6r,15,12,Lìllith,Void Barrage,Axe Toss,1
+3gymwM9c2Av4Xk6r,15,1,Decayed,Void Barrage,Mind Freeze,1
+3gymwM9c2Av4Xk6r,15,6,Panes,Void Barrage,Hammer of Justice,1
+3gymwM9c2Av4Xk6r,15,6,Panes,Void Barrage,Rebuke,1
+3gymwM9c2Av4Xk6r,15,15,Meowrawrxo,Void Barrage,Skull Bash,2
+3gymwM9c2Av4Xk6r,15,10,Spàdes,Void Barrage,Pummel,1
+3gymwM9c2Av4Xk6r,15,17,Asharia,Void Barrage,Disrupt,3
+3gymwM9c2Av4Xk6r,15,17,Asharia,Void Barrage,Void Nova,1
+3gymwM9c2Av4Xk6r,15,16,Grapefroot,Void Barrage,Intimidation,1
+3gymwM9c2Av4Xk6r,16,4,Maztajake,Corrupting Essence,Typhoon,1
+3gymwM9c2Av4Xk6r,16,12,Lìllith,Void Barrage,Mortal Coil,1
+3gymwM9c2Av4Xk6r,16,12,Lìllith,Void Barrage,Axe Toss,1
+3gymwM9c2Av4Xk6r,16,1,Decayed,Void Barrage,Mind Freeze,2
+3gymwM9c2Av4Xk6r,16,6,Panes,Void Barrage,Rebuke,3
+3gymwM9c2Av4Xk6r,16,6,Panes,Void Barrage,Hammer of Justice,1
+3gymwM9c2Av4Xk6r,16,14,Cryonox,Void Barrage,Mind Freeze,3
+3gymwM9c2Av4Xk6r,16,5,Mannarchy,Void Barrage,Avenger's Shield,2
+3gymwM9c2Av4Xk6r,16,17,Asharia,Void Barrage,Disrupt,3
+3gymwM9c2Av4Xk6r,16,3,Sinfxl,Void Barrage,Counterspell,2
+3gymwM9c2Av4Xk6r,16,16,Grapefroot,Void Barrage,Muzzle,2
+3gymwM9c2Av4Xk6r,16,16,Grapefroot,Void Barrage,Intimidation,1
+3gymwM9c2Av4Xk6r,17,12,Lìllith,Void Barrage,Axe Toss,1
+3gymwM9c2Av4Xk6r,17,6,Panes,Void Barrage,Rebuke,2
+3gymwM9c2Av4Xk6r,17,14,Cryonox,Void Barrage,Mind Freeze,1
+3gymwM9c2Av4Xk6r,17,15,Meowrawrxo,Void Barrage,Skull Bash,1
+3gymwM9c2Av4Xk6r,17,5,Mannarchy,Void Barrage,Avenger's Shield,3
+3gymwM9c2Av4Xk6r,17,17,Asharia,Void Barrage,Disrupt,2
+3gymwM9c2Av4Xk6r,17,17,Asharia,Void Barrage,Void Nova,1
+3gymwM9c2Av4Xk6r,17,3,Sinfxl,Void Barrage,Counterspell,3
+3gymwM9c2Av4Xk6r,17,21,Averlis,Void Barrage,Typhoon,3
+3gymwM9c2Av4Xk6r,17,7,Zeleria,Void Barrage,Hammer of Justice,1
+3gymwM9c2Av4Xk6r,1,17,Asharia,Blinding Light,Disrupt,1
+3gymwM9c2Av4Xk6r,1,16,Grapefroot,Blinding Light,Muzzle,1
+3gymwM9c2Av4Xk6r,2,17,Asharia,Blinding Light,Disrupt,1
+3gymwM9c2Av4Xk6r,2,19,Danzilla,Blinding Light,Counter Shot,1
+3gymwM9c2Av4Xk6r,3,12,Lìllith,Blinding Light,Axe Toss,2
+3gymwM9c2Av4Xk6r,3,17,Asharia,Blinding Light,Disrupt,1
+3gymwM9c2Av4Xk6r,3,3,Sinfxl,Blinding Light,Counterspell,2
+3gymwM9c2Av4Xk6r,9,3,Sinfxl,Void Barrage,Counterspell,1
+3VrDYLzQHKtTyAFX,1,12,Averlis,Poison Burst,Solar Beam,1
+3VrDYLzQHKtTyAFX,1,7,Ilidank,Poison Burst,Disrupt,1
+3VrDYLzQHKtTyAFX,1,14,Dystrophee,Poison Burst,Mind Freeze,1
+3VrDYLzQHKtTyAFX,1,10,Whilton,Festering Vines,Typhoon,1
+3VrDYLzQHKtTyAFX,3,1,Decayed,Poison Burst,Mind Freeze,1
+3VrDYLzQHKtTyAFX,3,12,Averlis,Poison Burst,Solar Beam,2
+3VrDYLzQHKtTyAFX,3,7,Ilidank,Poison Burst,Disrupt,2
+3VrDYLzQHKtTyAFX,3,19,Sinfxl,Poison Burst,Counterspell,2
+3VrDYLzQHKtTyAFX,3,14,Dystrophee,Poison Burst,Mind Freeze,1
+3VrDYLzQHKtTyAFX,3,15,Dahlela,Poison Burst,Silence,1
+3VrDYLzQHKtTyAFX,3,8,Meowrawrxo,Putrid Fist,Typhoon,1
+7fgDKpMGWzkq8Hbm,12,9,Cryonox,Fearsome Cry,Mind Freeze,1
+7fgDKpMGWzkq8Hbm,12,7,Abrakadavar,Fearsome Cry,Counterspell,2
+7fgDKpMGWzkq8Hbm,12,8,Mannarchy,Fearsome Cry,Avenger's Shield,1
+7fgDKpMGWzkq8Hbm,12,52,Meowrawrxo,Essence Bolt,Skull Bash,1
+7fgDKpMGWzkq8Hbm,12,8,Mannarchy,Essence Bolt,Avenger's Shield,1
+7fgDKpMGWzkq8Hbm,12,7,Abrakadavar,Essence Bolt,Counterspell,1
+7fgDKpMGWzkq8Hbm,12,23,Decayed,Essence Bolt,Mind Freeze,2
+7fgDKpMGWzkq8Hbm,12,47,Sinfxl,Essence Bolt,Counterspell,2
+7fgDKpMGWzkq8Hbm,3,4,Hörnstar,Fearsome Cry,Disrupt,1
+7fgDKpMGWzkq8Hbm,3,8,Mannarchy,Fearsome Cry,Avenger's Shield,1
+7fgDKpMGWzkq8Hbm,3,23,Decayed,Fearsome Cry,Mind Freeze,1
+7fgDKpMGWzkq8Hbm,3,25,Danzilla,Fearsome Cry,Counter Shot,1
+7fgDKpMGWzkq8Hbm,3,1,Grapefroot,Essence Bolt,Muzzle,2
+7fgDKpMGWzkq8Hbm,3,20,Lìllith,Essence Bolt,Axe Toss,1
+7fgDKpMGWzkq8Hbm,3,7,Abrakadavar,Essence Bolt,Counterspell,2
+7fgDKpMGWzkq8Hbm,3,8,Mannarchy,Essence Bolt,Rebuke,1
+7fgDKpMGWzkq8Hbm,3,23,Decayed,Essence Bolt,Mind Freeze,2
+7fgDKpMGWzkq8Hbm,3,23,Decayed,Essence Bolt,Gnaw,1
+7fgDKpMGWzkq8Hbm,4,1,Grapefroot,Fearsome Cry,Muzzle,1
+7fgDKpMGWzkq8Hbm,4,52,Meowrawrxo,Fearsome Cry,Skull Bash,1
+7fgDKpMGWzkq8Hbm,4,47,Sinfxl,Fearsome Cry,Counterspell,2
+7fgDKpMGWzkq8Hbm,4,9,Cryonox,Essence Bolt,Mind Freeze,1
+7fgDKpMGWzkq8Hbm,4,8,Mannarchy,Essence Bolt,Avenger's Shield,1
+7fgDKpMGWzkq8Hbm,4,23,Decayed,Essence Bolt,Mind Freeze,3
+7fgDKpMGWzkq8Hbm,4,47,Sinfxl,Essence Bolt,Counterspell,2
+7fgDKpMGWzkq8Hbm,6,4,Hörnstar,Fearsome Cry,Disrupt,1
+7fgDKpMGWzkq8Hbm,6,6,Aurëus,Fearsome Cry,Blinding Light,1
+7fgDKpMGWzkq8Hbm,6,20,Lìllith,Fearsome Cry,Axe Toss,1
+7fgDKpMGWzkq8Hbm,6,52,Meowrawrxo,Fearsome Cry,Skull Bash,2
+7fgDKpMGWzkq8Hbm,6,9,Cryonox,Fearsome Cry,Mind Freeze,2
+7fgDKpMGWzkq8Hbm,6,8,Mannarchy,Fearsome Cry,Avenger's Shield,2
+7fgDKpMGWzkq8Hbm,6,7,Abrakadavar,Fearsome Cry,Counterspell,2
+7fgDKpMGWzkq8Hbm,6,47,Sinfxl,Fearsome Cry,Counterspell,1
+7fgDKpMGWzkq8Hbm,6,1,Grapefroot,Essence Bolt,Muzzle,2
+7fgDKpMGWzkq8Hbm,6,52,Meowrawrxo,Essence Bolt,Skull Bash,2
+7fgDKpMGWzkq8Hbm,6,20,Lìllith,Essence Bolt,Axe Toss,1
+7fgDKpMGWzkq8Hbm,6,9,Cryonox,Essence Bolt,Mind Freeze,1
+7fgDKpMGWzkq8Hbm,6,7,Abrakadavar,Essence Bolt,Counterspell,4
+7fgDKpMGWzkq8Hbm,6,8,Mannarchy,Essence Bolt,Rebuke,1
+7fgDKpMGWzkq8Hbm,6,23,Decayed,Essence Bolt,Mind Freeze,1
+7fgDKpMGWzkq8Hbm,6,17,Primeval,Essence Bolt,Wind Shear,1
+7fgDKpMGWzkq8Hbm,6,47,Sinfxl,Essence Bolt,Counterspell,3
+7fgDKpMGWzkq8Hbm,6,39,Emikohime,Essence Bolt,Terror of the Skies,1
+7fgDKpMGWzkq8Hbm,7,4,Hörnstar,Fearsome Cry,Disrupt,1
+7fgDKpMGWzkq8Hbm,7,1,Grapefroot,Fearsome Cry,Muzzle,1
+7fgDKpMGWzkq8Hbm,7,20,Lìllith,Fearsome Cry,Axe Toss,1
+7fgDKpMGWzkq8Hbm,7,9,Cryonox,Fearsome Cry,Mind Freeze,1
+7fgDKpMGWzkq8Hbm,7,8,Mannarchy,Fearsome Cry,Avenger's Shield,1
+7fgDKpMGWzkq8Hbm,7,8,Mannarchy,Fearsome Cry,Rebuke,1
+7fgDKpMGWzkq8Hbm,7,7,Abrakadavar,Fearsome Cry,Counterspell,1
+7fgDKpMGWzkq8Hbm,7,23,Decayed,Fearsome Cry,Mind Freeze,3
+7fgDKpMGWzkq8Hbm,7,4,Hörnstar,Essence Bolt,Chaos Nova,2
+7fgDKpMGWzkq8Hbm,7,4,Hörnstar,Essence Bolt,Disrupt,1
+7fgDKpMGWzkq8Hbm,7,52,Meowrawrxo,Essence Bolt,Skull Bash,1
+7fgDKpMGWzkq8Hbm,7,7,Abrakadavar,Essence Bolt,Counterspell,2
+7fgDKpMGWzkq8Hbm,7,8,Mannarchy,Essence Bolt,Rebuke,1
+7fgDKpMGWzkq8Hbm,7,23,Decayed,Essence Bolt,Mind Freeze,3
+7fgDKpMGWzkq8Hbm,7,47,Sinfxl,Essence Bolt,Counterspell,3
+7fgDKpMGWzkq8Hbm,7,17,Primeval,Essence Bolt,Wind Shear,1
+7fgDKpMGWzkq8Hbm,8,4,Hörnstar,Fearsome Cry,Disrupt,1
+7fgDKpMGWzkq8Hbm,8,1,Grapefroot,Fearsome Cry,Muzzle,3
+7fgDKpMGWzkq8Hbm,8,7,Abrakadavar,Fearsome Cry,Counterspell,2
+7fgDKpMGWzkq8Hbm,8,8,Mannarchy,Fearsome Cry,Avenger's Shield,1
+7fgDKpMGWzkq8Hbm,8,8,Mannarchy,Fearsome Cry,Rebuke,1
+7fgDKpMGWzkq8Hbm,8,19,Spàdes,Fearsome Cry,Pummel,1
+7fgDKpMGWzkq8Hbm,8,47,Sinfxl,Fearsome Cry,Counterspell,1
+7fgDKpMGWzkq8Hbm,8,4,Hörnstar,Essence Bolt,Disrupt,1
+7fgDKpMGWzkq8Hbm,8,8,Mannarchy,Essence Bolt,Avenger's Shield,4
+7fgDKpMGWzkq8Hbm,8,7,Abrakadavar,Essence Bolt,Counterspell,1
+7fgDKpMGWzkq8Hbm,8,23,Decayed,Essence Bolt,Mind Freeze,5
+7fgDKpMGWzkq8Hbm,8,47,Sinfxl,Essence Bolt,Counterspell,6
+7fgDKpMGWzkq8Hbm,9,4,Hörnstar,Fearsome Cry,Chaos Nova,1
+7fgDKpMGWzkq8Hbm,9,4,Hörnstar,Fearsome Cry,Disrupt,1
+7fgDKpMGWzkq8Hbm,9,1,Grapefroot,Fearsome Cry,Muzzle,1
+7fgDKpMGWzkq8Hbm,9,20,Lìllith,Fearsome Cry,Axe Toss,1
+7fgDKpMGWzkq8Hbm,9,19,Spàdes,Fearsome Cry,Pummel,1
+7fgDKpMGWzkq8Hbm,9,47,Sinfxl,Fearsome Cry,Counterspell,1
+7fgDKpMGWzkq8Hbm,9,7,Abrakadavar,Essence Bolt,Counterspell,3
+7fgDKpMGWzkq8Hbm,9,8,Mannarchy,Essence Bolt,Rebuke,1
+7fgDKpMGWzkq8Hbm,9,19,Spàdes,Essence Bolt,Pummel,1
+7fgDKpMGWzkq8Hbm,9,19,Spàdes,Essence Bolt,Shockwave,1
+7fgDKpMGWzkq8Hbm,9,23,Decayed,Essence Bolt,Mind Freeze,2
+7fgDKpMGWzkq8Hbm,9,47,Sinfxl,Essence Bolt,Counterspell,1
+bdqfKFjLQXvM1ZJp,10,21,Sinfxl,Voidbolt,Counterspell,1
+bdqfKFjLQXvM1ZJp,10,14,Decayed,Voidbolt,Mind Freeze,2
+bdqfKFjLQXvM1ZJp,10,22,Unnerfable,Voidbolt,Blinding Light,1
+bdqfKFjLQXvM1ZJp,10,47,Cryonox,Voidbolt,Mind Freeze,2
+bdqfKFjLQXvM1ZJp,10,42,Dotdotboom,Voidbolt,Axe Toss,1
+bdqfKFjLQXvM1ZJp,10,6,Lìllith,Voidbolt,Shadowfury,5
+bdqfKFjLQXvM1ZJp,10,6,Lìllith,Voidbolt,Axe Toss,1
+bdqfKFjLQXvM1ZJp,10,4,Averlis,Voidbolt,Solar Beam,2
+bdqfKFjLQXvM1ZJp,10,15,Meowrawrxo,Voidbolt,Skull Bash,2
+bdqfKFjLQXvM1ZJp,10,1,Grapefroot,Voidbolt,Muzzle,2
+bdqfKFjLQXvM1ZJp,10,8,Spàdes,Voidbolt,Shockwave,4
+bdqfKFjLQXvM1ZJp,10,8,Spàdes,Voidbolt,Pummel,3
+bdqfKFjLQXvM1ZJp,10,29,Mannarchy,Voidbolt,Blinding Light,2
+bdqfKFjLQXvM1ZJp,10,29,Mannarchy,Voidbolt,Avenger's Shield,1
+bdqfKFjLQXvM1ZJp,11,14,Decayed,Voidbolt,Mind Freeze,2
+bdqfKFjLQXvM1ZJp,11,21,Sinfxl,Voidbolt,Counterspell,1
+bdqfKFjLQXvM1ZJp,11,22,Unnerfable,Voidbolt,Blinding Light,5
+bdqfKFjLQXvM1ZJp,11,47,Cryonox,Voidbolt,Mind Freeze,7
+bdqfKFjLQXvM1ZJp,11,42,Dotdotboom,Voidbolt,Axe Toss,3
+bdqfKFjLQXvM1ZJp,11,6,Lìllith,Voidbolt,Axe Toss,2
+bdqfKFjLQXvM1ZJp,11,4,Averlis,Voidbolt,Solar Beam,1
+bdqfKFjLQXvM1ZJp,11,8,Spàdes,Voidbolt,Shockwave,4
+bdqfKFjLQXvM1ZJp,11,8,Spàdes,Voidbolt,Pummel,1
+bdqfKFjLQXvM1ZJp,11,50,Danzilla,Voidbolt,Counter Shot,4
+bdqfKFjLQXvM1ZJp,11,29,Mannarchy,Voidbolt,Blinding Light,3
+bdqfKFjLQXvM1ZJp,11,29,Mannarchy,Voidbolt,Rebuke,1
+bdqfKFjLQXvM1ZJp,11,29,Mannarchy,Voidbolt,Avenger's Shield,1
+bdqfKFjLQXvM1ZJp,12,47,Cryonox,Voidbolt,Mind Freeze,1
+bdqfKFjLQXvM1ZJp,12,42,Dotdotboom,Voidbolt,Axe Toss,1
+bdqfKFjLQXvM1ZJp,12,15,Meowrawrxo,Voidbolt,Skull Bash,1
+bdqfKFjLQXvM1ZJp,12,8,Spàdes,Voidbolt,Shockwave,5
+bdqfKFjLQXvM1ZJp,12,29,Mannarchy,Voidbolt,Hammer of Justice,1
+bdqfKFjLQXvM1ZJp,12,50,Danzilla,Voidbolt,Counter Shot,1
+bdqfKFjLQXvM1ZJp,14,21,Sinfxl,Voidbolt,Counterspell,2
+bdqfKFjLQXvM1ZJp,14,22,Unnerfable,Voidbolt,Blinding Light,6
+bdqfKFjLQXvM1ZJp,14,47,Cryonox,Voidbolt,Mind Freeze,2
+bdqfKFjLQXvM1ZJp,14,42,Dotdotboom,Voidbolt,Mortal Coil,1
+bdqfKFjLQXvM1ZJp,14,1,Grapefroot,Voidbolt,Muzzle,2
+bdqfKFjLQXvM1ZJp,14,8,Spàdes,Voidbolt,Shockwave,16
+bdqfKFjLQXvM1ZJp,14,8,Spàdes,Voidbolt,Pummel,1
+bdqfKFjLQXvM1ZJp,14,29,Mannarchy,Voidbolt,Avenger's Shield,4
+bdqfKFjLQXvM1ZJp,15,134,Asharia,Voidbolt,Disrupt,1
+bdqfKFjLQXvM1ZJp,15,15,Meowrawrxo,Voidbolt,Skull Bash,1
+bdqfKFjLQXvM1ZJp,15,8,Spàdes,Voidbolt,Shockwave,4
+bdqfKFjLQXvM1ZJp,16,21,Sinfxl,Voidbolt,Counterspell,1
+bdqfKFjLQXvM1ZJp,16,22,Unnerfable,Voidbolt,Blinding Light,8
+bdqfKFjLQXvM1ZJp,16,47,Cryonox,Voidbolt,Mind Freeze,2
+bdqfKFjLQXvM1ZJp,16,6,Lìllith,Voidbolt,Shadowfury,2
+bdqfKFjLQXvM1ZJp,16,1,Grapefroot,Voidbolt,Muzzle,4
+bdqfKFjLQXvM1ZJp,16,15,Meowrawrxo,Voidbolt,Skull Bash,2
+bdqfKFjLQXvM1ZJp,16,8,Spàdes,Voidbolt,Pummel,2
+bdqfKFjLQXvM1ZJp,16,29,Mannarchy,Voidbolt,Avenger's Shield,2
+bdqfKFjLQXvM1ZJp,16,29,Mannarchy,Voidbolt,Rebuke,1
+bdqfKFjLQXvM1ZJp,16,29,Mannarchy,Voidbolt,Blinding Light,1
+bdqfKFjLQXvM1ZJp,16,50,Danzilla,Voidbolt,Counter Shot,1
+bdqfKFjLQXvM1ZJp,17,14,Decayed,Voidbolt,Mind Freeze,1
+bdqfKFjLQXvM1ZJp,17,21,Sinfxl,Voidbolt,Counterspell,3
+bdqfKFjLQXvM1ZJp,17,22,Unnerfable,Voidbolt,Blinding Light,3
+bdqfKFjLQXvM1ZJp,17,47,Cryonox,Voidbolt,Mind Freeze,3
+bdqfKFjLQXvM1ZJp,17,47,Cryonox,Voidbolt,Monstrous Blow,1
+bdqfKFjLQXvM1ZJp,17,6,Lìllith,Voidbolt,Axe Toss,2
+bdqfKFjLQXvM1ZJp,17,134,Asharia,Voidbolt,Disrupt,2
+bdqfKFjLQXvM1ZJp,17,1,Grapefroot,Voidbolt,Muzzle,4
+bdqfKFjLQXvM1ZJp,17,15,Meowrawrxo,Voidbolt,Skull Bash,3
+bdqfKFjLQXvM1ZJp,17,8,Spàdes,Voidbolt,Shockwave,2
+bdqfKFjLQXvM1ZJp,17,8,Spàdes,Voidbolt,Pummel,1
+bdqfKFjLQXvM1ZJp,17,29,Mannarchy,Voidbolt,Blinding Light,5
+bdqfKFjLQXvM1ZJp,17,29,Mannarchy,Voidbolt,Avenger's Shield,1
+bdqfKFjLQXvM1ZJp,17,50,Danzilla,Voidbolt,Counter Shot,1
+bdqfKFjLQXvM1ZJp,18,21,Sinfxl,Voidbolt,Counterspell,2
+bdqfKFjLQXvM1ZJp,18,14,Decayed,Voidbolt,Mind Freeze,1
+bdqfKFjLQXvM1ZJp,18,22,Unnerfable,Voidbolt,Blinding Light,1
+bdqfKFjLQXvM1ZJp,18,47,Cryonox,Voidbolt,Gnaw,1
+bdqfKFjLQXvM1ZJp,18,6,Lìllith,Voidbolt,Axe Toss,2
+bdqfKFjLQXvM1ZJp,18,134,Asharia,Voidbolt,Disrupt,4
+bdqfKFjLQXvM1ZJp,18,1,Grapefroot,Voidbolt,Muzzle,4
+bdqfKFjLQXvM1ZJp,18,15,Meowrawrxo,Voidbolt,Skull Bash,2
+bdqfKFjLQXvM1ZJp,18,8,Spàdes,Voidbolt,Shockwave,6
+bdqfKFjLQXvM1ZJp,18,8,Spàdes,Voidbolt,Pummel,2
+bdqfKFjLQXvM1ZJp,18,29,Mannarchy,Voidbolt,Rebuke,2
+bdqfKFjLQXvM1ZJp,18,50,Danzilla,Voidbolt,Counter Shot,2
+bdqfKFjLQXvM1ZJp,19,21,Sinfxl,Voidbolt,Counterspell,1
+bdqfKFjLQXvM1ZJp,19,14,Decayed,Voidbolt,Mind Freeze,1
+bdqfKFjLQXvM1ZJp,19,22,Unnerfable,Voidbolt,Blinding Light,1
+bdqfKFjLQXvM1ZJp,19,47,Cryonox,Voidbolt,Mind Freeze,5
+bdqfKFjLQXvM1ZJp,19,47,Cryonox,Voidbolt,Shambling Rush,2
+bdqfKFjLQXvM1ZJp,19,134,Asharia,Voidbolt,Disrupt,8
+bdqfKFjLQXvM1ZJp,19,134,Asharia,Voidbolt,Void Nova,5
+bdqfKFjLQXvM1ZJp,19,4,Averlis,Voidbolt,Solar Beam,1
+bdqfKFjLQXvM1ZJp,19,1,Grapefroot,Voidbolt,Muzzle,6
+bdqfKFjLQXvM1ZJp,19,15,Meowrawrxo,Voidbolt,Skull Bash,1
+bdqfKFjLQXvM1ZJp,19,8,Spàdes,Voidbolt,Shockwave,7
+bdqfKFjLQXvM1ZJp,19,8,Spàdes,Voidbolt,Pummel,1
+bdqfKFjLQXvM1ZJp,19,50,Danzilla,Voidbolt,Counter Shot,6
+bdqfKFjLQXvM1ZJp,19,29,Mannarchy,Voidbolt,Avenger's Shield,6
+bdqfKFjLQXvM1ZJp,19,29,Mannarchy,Voidbolt,Rebuke,1
+bdqfKFjLQXvM1ZJp,2,15,Meowrawrxo,Shadowclaw Slam,Typhoon,1
+bdqfKFjLQXvM1ZJp,6,5,Caelum,Shadow Fracture,Rebuke,1
+bdqfKFjLQXvM1ZJp,6,10,Primeval,Shadow Fracture,Wind Shear,6
+bdqfKFjLQXvM1ZJp,6,22,Unnerfable,Shadow Fracture,Hammer of Justice,1
+bdqfKFjLQXvM1ZJp,6,22,Unnerfable,Shadow Fracture,Blinding Light,1
+bdqfKFjLQXvM1ZJp,6,42,Dotdotboom,Shadow Fracture,Axe Toss,3
+bdqfKFjLQXvM1ZJp,6,134,Asharia,Shadow Fracture,Disrupt,5
+bdqfKFjLQXvM1ZJp,6,6,Lìllith,Shadow Fracture,Axe Toss,4
+bdqfKFjLQXvM1ZJp,6,4,Averlis,Shadow Fracture,Solar Beam,1
+bdqfKFjLQXvM1ZJp,6,15,Meowrawrxo,Shadow Fracture,Skull Bash,3
+bdqfKFjLQXvM1ZJp,6,1,Grapefroot,Shadow Fracture,Intimidation,3
+bdqfKFjLQXvM1ZJp,6,1,Grapefroot,Shadow Fracture,Muzzle,2
+bdqfKFjLQXvM1ZJp,6,21,Sinfxl,Shadow Fracture,Counterspell,2
+bdqfKFjLQXvM1ZJp,6,14,Decayed,Shadow Fracture,Mind Freeze,2
+bdqfKFjLQXvM1ZJp,6,27,Siare,Shadow Fracture,Axe Toss,1
+bdqfKFjLQXvM1ZJp,6,8,Spàdes,Shadow Fracture,Pummel,1
+bdqfKFjLQXvM1ZJp,6,8,Spàdes,Shadow Fracture,Storm Bolt,1
+bdqfKFjLQXvM1ZJp,6,50,Danzilla,Shadow Fracture,Counter Shot,3
+bdqfKFjLQXvM1ZJp,6,29,Mannarchy,Shadow Fracture,Avenger's Shield,1
+bdqfKFjLQXvM1ZJp,7,21,Sinfxl,Shadow Fracture,Counterspell,5
+bdqfKFjLQXvM1ZJp,7,14,Decayed,Shadow Fracture,Mind Freeze,3
+bdqfKFjLQXvM1ZJp,7,5,Caelum,Shadow Fracture,Hammer of Justice,1
+bdqfKFjLQXvM1ZJp,7,10,Primeval,Shadow Fracture,Wind Shear,7
+bdqfKFjLQXvM1ZJp,7,33,Panes,Shadow Fracture,Hammer of Justice,3
+bdqfKFjLQXvM1ZJp,7,22,Unnerfable,Shadow Fracture,Hammer of Justice,4
+bdqfKFjLQXvM1ZJp,7,22,Unnerfable,Shadow Fracture,Blinding Light,3
+bdqfKFjLQXvM1ZJp,7,134,Asharia,Shadow Fracture,Disrupt,1
+bdqfKFjLQXvM1ZJp,7,4,Averlis,Shadow Fracture,Solar Beam,3
+bdqfKFjLQXvM1ZJp,7,15,Meowrawrxo,Shadow Fracture,Skull Bash,3
+bdqfKFjLQXvM1ZJp,7,27,Siare,Shadow Fracture,Axe Toss,1
+bdqfKFjLQXvM1ZJp,7,29,Mannarchy,Shadow Fracture,Blinding Light,2
+D6gZPwN8vC1qAXKH,1,4,Dystrophee,Blinding Light,Mind Freeze,1
+D6gZPwN8vC1qAXKH,1,15,Grapefroot,Blinding Light,Muzzle,3
+D6gZPwN8vC1qAXKH,4,6,Decayed,Void Barrage,Mind Freeze,4
+D6gZPwN8vC1qAXKH,4,4,Dystrophee,Void Barrage,Mind Freeze,3
+D6gZPwN8vC1qAXKH,4,10,Whilton,Void Barrage,Skull Bash,1
+D6gZPwN8vC1qAXKH,4,14,Mannarchy,Void Barrage,Avenger's Shield,4
+D6gZPwN8vC1qAXKH,4,14,Mannarchy,Void Barrage,Rebuke,1
+D6gZPwN8vC1qAXKH,4,15,Grapefroot,Void Barrage,Muzzle,2
+D6gZPwN8vC1qAXKH,4,11,Ilidank,Void Barrage,Disrupt,3
+D6gZPwN8vC1qAXKH,4,11,Ilidank,Void Barrage,Void Nova,2
+D6gZPwN8vC1qAXKH,4,13,Dahlela,Void Barrage,Silence,2
+D6gZPwN8vC1qAXKH,4,7,Deseral,Void Barrage,Quell,3
+D6gZPwN8vC1qAXKH,4,9,Primeval,Void Barrage,Wind Shear,1
+D6gZPwN8vC1qAXKH,4,19,Maztajake,Dark Hand,Typhoon,1
+D6gZPwN8vC1qAXKH,5,103,Sinfxl,Void Barrage,Counterspell,2
+D6gZPwN8vC1qAXKH,5,6,Decayed,Void Barrage,Mind Freeze,1
+D6gZPwN8vC1qAXKH,5,4,Dystrophee,Void Barrage,Mind Freeze,1
+D6gZPwN8vC1qAXKH,5,15,Grapefroot,Void Barrage,Muzzle,3
+D6gZPwN8vC1qAXKH,5,11,Ilidank,Void Barrage,Disrupt,1
+D6gZPwN8vC1qAXKH,5,14,Mannarchy,Void Barrage,Avenger's Shield,1
+D6gZPwN8vC1qAXKH,5,7,Deseral,Void Barrage,Quell,1
+D6gZPwN8vC1qAXKH,9,4,Dystrophee,Light Eruption,Mind Freeze,1
+D6gZPwN8vC1qAXKH,9,13,Dahlela,Light Eruption,Silence,1
+D6gZPwN8vC1qAXKH,9,4,Dystrophee,Void Blast,Mind Freeze,1
+D6gZPwN8vC1qAXKH,9,9,Primeval,Void Blast,Wind Shear,2
+D6gZPwN8vC1qAXKH,9,103,Sinfxl,Light Blast,Counterspell,1
+D6gZPwN8vC1qAXKH,9,4,Dystrophee,Light Blast,Mind Freeze,1
+D6gZPwN8vC1qAXKH,9,11,Ilidank,Light Blast,Disrupt,1
+D6gZPwN8vC1qAXKH,9,8,Averlis,Void Eruption,Solar Beam,1
+D6gZPwN8vC1qAXKH,9,15,Grapefroot,Void Eruption,Muzzle,1
+D6gZPwN8vC1qAXKH,9,13,Dahlela,Void Eruption,Silence,1
+DVPfBvHpYFwytd2G,10,2,Lìllith,Fearsome Cry,Axe Toss,1
+DVPfBvHpYFwytd2G,10,1,Synkro,Fearsome Cry,Spear Hand Strike,1
+DVPfBvHpYFwytd2G,10,9,Monfro,Fearsome Cry,Counter Shot,1
+DVPfBvHpYFwytd2G,10,5,Siare,Essence Bolt,Axe Toss,1
+DVPfBvHpYFwytd2G,10,24,Dystrophee,Essence Bolt,Mind Freeze,1
+DVPfBvHpYFwytd2G,12,7,Mannarchy,Fearsome Cry,Rebuke,1
+DVPfBvHpYFwytd2G,12,26,Decayed,Fearsome Cry,Mind Freeze,2
+DVPfBvHpYFwytd2G,12,17,Panes,Essence Bolt,Rebuke,1
+DVPfBvHpYFwytd2G,12,9,Monfro,Essence Bolt,Counter Shot,1
+DVPfBvHpYFwytd2G,12,13,Meowrawrxo,Essence Bolt,Skull Bash,1
+DVPfBvHpYFwytd2G,12,24,Dystrophee,Essence Bolt,Mind Freeze,2
+DVPfBvHpYFwytd2G,1,18,Averlis,Poison Burst,Solar Beam,1
+DVPfBvHpYFwytd2G,1,9,Monfro,Poison Burst,Counter Shot,2
+DVPfBvHpYFwytd2G,1,16,Maztajake,Poison Burst,Solar Beam,1
+DVPfBvHpYFwytd2G,1,8,Greyseer,Poison Burst,Counter Shot,1
+DVPfBvHpYFwytd2G,1,24,Dystrophee,Poison Burst,Mind Freeze,1
+DVPfBvHpYFwytd2G,2,5,Siare,Poison Burst,Axe Toss,1
+DVPfBvHpYFwytd2G,2,17,Panes,Poison Burst,Rebuke,1
+DVPfBvHpYFwytd2G,2,1,Synkro,Poison Burst,Spear Hand Strike,1
+DVPfBvHpYFwytd2G,2,13,Meowrawrxo,Poison Burst,Skull Bash,1
+DVPfBvHpYFwytd2G,2,13,Meowrawrxo,Poison Burst,Typhoon,1
+DVPfBvHpYFwytd2G,2,15,Ilidank,Poison Burst,Disrupt,2
+DVPfBvHpYFwytd2G,2,13,Meowrawrxo,Putrid Fist,Typhoon,1
+DVPfBvHpYFwytd2G,3,2,Lìllith,Poison Burst,Axe Toss,1
+DVPfBvHpYFwytd2G,3,13,Meowrawrxo,Poison Burst,Skull Bash,1
+DVPfBvHpYFwytd2G,3,8,Greyseer,Poison Burst,Counter Shot,1
+DVPfBvHpYFwytd2G,3,26,Decayed,Poison Burst,Mind Freeze,2
+DVPfBvHpYFwytd2G,3,15,Ilidank,Poison Burst,Disrupt,2
+DVPfBvHpYFwytd2G,4,17,Panes,Poison Burst,Rebuke,1
+DVPfBvHpYFwytd2G,4,18,Averlis,Poison Burst,Solar Beam,2
+DVPfBvHpYFwytd2G,4,1,Synkro,Poison Burst,Spear Hand Strike,1
+DVPfBvHpYFwytd2G,4,9,Monfro,Poison Burst,Counter Shot,1
+DVPfBvHpYFwytd2G,4,13,Meowrawrxo,Poison Burst,Skull Bash,2
+DVPfBvHpYFwytd2G,4,15,Ilidank,Poison Burst,Disrupt,2
+DVPfBvHpYFwytd2G,4,26,Decayed,Poison Burst,Mind Freeze,1
+DVPfBvHpYFwytd2G,4,24,Dystrophee,Poison Burst,Mind Freeze,1
+DVPfBvHpYFwytd2G,5,5,Siare,Poison Burst,Axe Toss,1
+DVPfBvHpYFwytd2G,5,2,Lìllith,Poison Burst,Axe Toss,1
+DVPfBvHpYFwytd2G,5,18,Averlis,Poison Burst,Solar Beam,2
+DVPfBvHpYFwytd2G,5,9,Monfro,Poison Burst,Counter Shot,2
+DVPfBvHpYFwytd2G,5,16,Maztajake,Poison Burst,Solar Beam,1
+DVPfBvHpYFwytd2G,5,13,Meowrawrxo,Poison Burst,Skull Bash,2
+DVPfBvHpYFwytd2G,5,8,Greyseer,Poison Burst,Counter Shot,3
+DVPfBvHpYFwytd2G,5,24,Dystrophee,Poison Burst,Mind Freeze,1
+DVPfBvHpYFwytd2G,5,15,Ilidank,Poison Burst,Disrupt,2
+DVPfBvHpYFwytd2G,5,26,Decayed,Poison Burst,Mind Freeze,1
+DVPfBvHpYFwytd2G,8,2,Lìllith,Essence Bolt,Axe Toss,1
+DVPfBvHpYFwytd2G,8,26,Decayed,Essence Bolt,Mind Freeze,1
+DVPfBvHpYFwytd2G,8,24,Dystrophee,Essence Bolt,Mind Freeze,1
+DVPfBvHpYFwytd2G,9,1,Synkro,Fearsome Cry,Spear Hand Strike,1
+DVPfBvHpYFwytd2G,9,16,Maztajake,Fearsome Cry,Solar Beam,1
+DVPfBvHpYFwytd2G,9,15,Ilidank,Fearsome Cry,Disrupt,1
+DVPfBvHpYFwytd2G,9,26,Decayed,Fearsome Cry,Mind Freeze,1
+DVPfBvHpYFwytd2G,9,18,Averlis,Discordant Roar,Typhoon,1
+DVPfBvHpYFwytd2G,9,24,Dystrophee,Essence Bolt,Mind Freeze,2
+DVPfBvHpYFwytd2G,9,26,Decayed,Essence Bolt,Mind Freeze,1
+g2CL3b8YmcKyGwQD,14,223,Gethael,Blinding Light,Disrupt,1
+g2CL3b8YmcKyGwQD,15,560,Heyzues,Blinding Light,Wind Shear,1
+g2CL3b8YmcKyGwQD,16,35,Brglwwgl,Blinding Light,Spear Hand Strike,2
+g2CL3b8YmcKyGwQD,17,221,Evilisuponu,Blinding Light,Axe Toss,1
+g2CL3b8YmcKyGwQD,17,35,Brglwwgl,Blinding Light,Spear Hand Strike,1
+g2CL3b8YmcKyGwQD,19,221,Evilisuponu,Blinding Light,Axe Toss,1
+g2CL3b8YmcKyGwQD,19,35,Brglwwgl,Blinding Light,Spear Hand Strike,1
+g2CL3b8YmcKyGwQD,20,224,Azzinotica,Blinding Light,Disrupt,1
+g2CL3b8YmcKyGwQD,20,35,Brglwwgl,Blinding Light,Spear Hand Strike,2
+g2CL3b8YmcKyGwQD,21,223,Gethael,Blinding Light,Disrupt,1
+g2CL3b8YmcKyGwQD,5,35,Brglwwgl,Light Eruption,Spear Hand Strike,1
+g2CL3b8YmcKyGwQD,5,212,Sarahfi,Light Blast,Avenger's Shield,1
+g2CL3b8YmcKyGwQD,5,218,Splittail,Light Blast,Counter Shot,1
+g2CL3b8YmcKyGwQD,5,214,Pinsleepe,Light Blast,Counterspell,1
+g2CL3b8YmcKyGwQD,5,35,Brglwwgl,Void Eruption,Spear Hand Strike,1
+g2CL3b8YmcKyGwQD,5,235,Kielus,Void Eruption,Rebuke,1
+g2CL3b8YmcKyGwQD,5,233,Zifnab,Void Blast,Counterspell,1
+g2CL3b8YmcKyGwQD,8,212,Sarahfi,Safeguard,Avenger's Shield,4
+g2CL3b8YmcKyGwQD,8,211,Datoka,Safeguard,Wind Shear,1
+g2CL3b8YmcKyGwQD,8,218,Splittail,Safeguard,Counter Shot,2
+g2CL3b8YmcKyGwQD,8,223,Gethael,Safeguard,Disrupt,1
+g2CL3b8YmcKyGwQD,8,224,Azzinotica,Safeguard,Disrupt,2
+g2CL3b8YmcKyGwQD,8,216,Krogal,Safeguard,Counter Shot,1
+g2CL3b8YmcKyGwQD,8,214,Pinsleepe,Safeguard,Counterspell,2
+g2CL3b8YmcKyGwQD,8,221,Evilisuponu,Safeguard,Axe Toss,1
+g2CL3b8YmcKyGwQD,8,35,Brglwwgl,Safeguard,Spear Hand Strike,2
+g2CL3b8YmcKyGwQD,8,35,Brglwwgl,Safeguard,Leg Sweep,1
+g2CL3b8YmcKyGwQD,8,233,Zifnab,Safeguard,Counterspell,2
+g2CL3b8YmcKyGwQD,8,228,Ezhrah,Safeguard,Spear Hand Strike,2
+g2CL3b8YmcKyGwQD,8,228,Ezhrah,Safeguard,Leg Sweep,1
+g2CL3b8YmcKyGwQD,8,235,Kielus,Safeguard,Rebuke,2
+g2CL3b8YmcKyGwQD,8,235,Kielus,Safeguard,Hammer of Justice,1
+GBXcvzpjkJAxCH6P,22,11,Maztajake,Icebound Flames,Solar Beam,1
+GBXcvzpjkJAxCH6P,22,106,Faestrix,Icebound Flames,Disrupt,6
+GBXcvzpjkJAxCH6P,22,1,Høss,Icebound Flames,Pummel,2
+GBXcvzpjkJAxCH6P,22,114,Ecuasygnat,Icebound Flames,Wind Shear,2
+GBXcvzpjkJAxCH6P,22,2,Aiondormu,Icebound Flames,Quell,1
+GBXcvzpjkJAxCH6P,22,5,Shockabeotch,Icebound Flames,Wind Shear,1
+GBXcvzpjkJAxCH6P,22,20,Vênarial,Icebound Flames,Counterspell,1
+GBXcvzpjkJAxCH6P,22,14,Naaven,Icebound Flames,Avenger's Shield,2
+H3WNRQj9wTF2kmc4,10,12,Lìllith,Eternal Nightfall,Axe Toss,1
+H3WNRQj9wTF2kmc4,11,17,Asharia,Eternal Nightfall,Disrupt,1
+H3WNRQj9wTF2kmc4,11,1,Soliloquy,Immolate,Psychic Scream,1
+H3WNRQj9wTF2kmc4,11,2,Spàdes,Fel Firebolt,Shockwave,3
+H3WNRQj9wTF2kmc4,11,23,Grapefantuh,Fel Firebolt,Capacitor Totem,4
+H3WNRQj9wTF2kmc4,17,17,Asharia,Eternal Nightfall,Disrupt,1
+H3WNRQj9wTF2kmc4,17,5,Shinier,Fey Missile,Blinding Light,2
+H3WNRQj9wTF2kmc4,17,23,Grapefantuh,Frostbolt,Capacitor Totem,1
+H3WNRQj9wTF2kmc4,17,15,Maztajake,Frostbolt,Typhoon,1
+H3WNRQj9wTF2kmc4,17,21,Kainz,Frostbolt,Pummel,1
+H3WNRQj9wTF2kmc4,18,2,Spàdes,Eternal Nightfall,Pummel,1
+H3WNRQj9wTF2kmc4,18,10,Littlejohn,Eternal Nightfall,Mind Freeze,1
+H3WNRQj9wTF2kmc4,18,18,Chickynuggy,Eternal Nightfall,Muzzle,1
+H3WNRQj9wTF2kmc4,18,23,Grapefantuh,Fey Missile,Capacitor Totem,3
+H3WNRQj9wTF2kmc4,18,17,Asharia,Fey Missile,Void Nova,1
+H3WNRQj9wTF2kmc4,18,1,Soliloquy,Frostbolt,Psychic Scream,2
+H3WNRQj9wTF2kmc4,18,9,Czera,Fel Firebolt,Leg Sweep,7
+H3WNRQj9wTF2kmc4,18,1,Soliloquy,Fel Firebolt,Psychic Scream,7
+H3WNRQj9wTF2kmc4,5,2,Spàdes,Spew Venom,Pummel,1
+H3WNRQj9wTF2kmc4,5,24,Mets,Spew Venom,Counter Shot,1
+H3WNRQj9wTF2kmc4,5,23,Grapefantuh,Spew Venom,Wind Shear,1
+H3WNRQj9wTF2kmc4,5,11,Ämon,Spew Venom,Solar Beam,1
+LMnThDVqdjya46v2,1,24,Dystrophee,Poison Burst,Mind Freeze,1
+LMnThDVqdjya46v2,1,16,Maztajake,Poison Burst,Solar Beam,1
+LMnThDVqdjya46v2,1,8,Greyseer,Poison Burst,Counter Shot,1
+LMnThDVqdjya46v2,1,18,Averlis,Poison Burst,Solar Beam,1
+LMnThDVqdjya46v2,1,9,Monfro,Poison Burst,Counter Shot,2
+LMnThDVqdjya46v2,2,5,Siare,Poison Burst,Axe Toss,1
+LMnThDVqdjya46v2,2,1,Synkro,Poison Burst,Spear Hand Strike,1
+LMnThDVqdjya46v2,2,13,Meowrawrxo,Poison Burst,Skull Bash,1
+LMnThDVqdjya46v2,2,13,Meowrawrxo,Poison Burst,Typhoon,1
+LMnThDVqdjya46v2,2,17,Panes,Poison Burst,Rebuke,1
+LMnThDVqdjya46v2,2,15,Ilidank,Poison Burst,Disrupt,2
+LMnThDVqdjya46v2,2,13,Meowrawrxo,Putrid Fist,Typhoon,1
+LMnThDVqdjya46v2,3,2,Lìllith,Poison Burst,Axe Toss,1
+LMnThDVqdjya46v2,3,13,Meowrawrxo,Poison Burst,Skull Bash,1
+LMnThDVqdjya46v2,3,8,Greyseer,Poison Burst,Counter Shot,1
+LMnThDVqdjya46v2,3,26,Decayed,Poison Burst,Mind Freeze,2
+LMnThDVqdjya46v2,3,15,Ilidank,Poison Burst,Disrupt,2
+LMnThDVqdjya46v2,4,1,Synkro,Poison Burst,Spear Hand Strike,1
+LMnThDVqdjya46v2,4,17,Panes,Poison Burst,Rebuke,1
+LMnThDVqdjya46v2,4,13,Meowrawrxo,Poison Burst,Skull Bash,2
+LMnThDVqdjya46v2,4,24,Dystrophee,Poison Burst,Mind Freeze,1
+LMnThDVqdjya46v2,4,18,Averlis,Poison Burst,Solar Beam,2
+LMnThDVqdjya46v2,4,9,Monfro,Poison Burst,Counter Shot,1
+LMnThDVqdjya46v2,4,26,Decayed,Poison Burst,Mind Freeze,1
+LMnThDVqdjya46v2,4,15,Ilidank,Poison Burst,Disrupt,2
+LMnThDVqdjya46v2,5,5,Siare,Poison Burst,Axe Toss,1
+LMnThDVqdjya46v2,5,2,Lìllith,Poison Burst,Axe Toss,1
+LMnThDVqdjya46v2,5,13,Meowrawrxo,Poison Burst,Skull Bash,2
+LMnThDVqdjya46v2,5,24,Dystrophee,Poison Burst,Mind Freeze,1
+LMnThDVqdjya46v2,5,16,Maztajake,Poison Burst,Solar Beam,1
+LMnThDVqdjya46v2,5,8,Greyseer,Poison Burst,Counter Shot,3
+LMnThDVqdjya46v2,5,18,Averlis,Poison Burst,Solar Beam,2
+LMnThDVqdjya46v2,5,9,Monfro,Poison Burst,Counter Shot,2
+LMnThDVqdjya46v2,5,26,Decayed,Poison Burst,Mind Freeze,1
+LMnThDVqdjya46v2,5,15,Ilidank,Poison Burst,Disrupt,2
+MhK4B7L8VF1rvNw6,10,2,Sinfxl,Blinding Light,Counterspell,1
+MhK4B7L8VF1rvNw6,10,10,Meowrawrxo,Blinding Light,Skull Bash,1
+MhK4B7L8VF1rvNw6,10,7,Abrakadavar,Blinding Light,Counterspell,1
+MhK4B7L8VF1rvNw6,10,23,Myroguëë,Blinding Light,Kick,1
+MhK4B7L8VF1rvNw6,11,2,Sinfxl,Blinding Light,Counterspell,1
+MhK4B7L8VF1rvNw6,11,15,Mannarchy,Blinding Light,Rebuke,1
+MhK4B7L8VF1rvNw6,11,20,Caelum,Blinding Light,Rebuke,1
+MhK4B7L8VF1rvNw6,11,23,Myroguëë,Blinding Light,Kick,6
+MhK4B7L8VF1rvNw6,12,2,Sinfxl,Blinding Light,Counterspell,2
+MhK4B7L8VF1rvNw6,12,20,Caelum,Blinding Light,Rebuke,1
+MhK4B7L8VF1rvNw6,12,7,Abrakadavar,Blinding Light,Counterspell,1
+MhK4B7L8VF1rvNw6,12,23,Myroguëë,Blinding Light,Kick,4
+MhK4B7L8VF1rvNw6,14,2,Sinfxl,Void Barrage,Counterspell,2
+MhK4B7L8VF1rvNw6,14,5,Lìllith,Void Barrage,Axe Toss,1
+MhK4B7L8VF1rvNw6,14,9,Asharia,Void Barrage,Disrupt,1
+MhK4B7L8VF1rvNw6,14,1,Primeval,Void Barrage,Wind Shear,1
+MhK4B7L8VF1rvNw6,14,26,Siare,Void Barrage,Mortal Coil,1
+MhK4B7L8VF1rvNw6,14,20,Caelum,Void Barrage,Rebuke,1
+MhK4B7L8VF1rvNw6,14,13,Hörnstar,Void Barrage,Disrupt,2
+MhK4B7L8VF1rvNw6,14,146,Dotdotboom,Void Barrage,Axe Toss,1
+MhK4B7L8VF1rvNw6,14,23,Myroguëë,Void Barrage,Kick,2
+MhK4B7L8VF1rvNw6,15,5,Lìllith,Void Barrage,Axe Toss,1
+MhK4B7L8VF1rvNw6,15,6,Spàdes,Void Barrage,Pummel,1
+MhK4B7L8VF1rvNw6,15,6,Spàdes,Void Barrage,Storm Bolt,1
+MhK4B7L8VF1rvNw6,15,8,Grapey,Void Barrage,Mind Freeze,2
+MhK4B7L8VF1rvNw6,15,9,Asharia,Void Barrage,Void Nova,2
+MhK4B7L8VF1rvNw6,15,9,Asharia,Void Barrage,Disrupt,1
+MhK4B7L8VF1rvNw6,15,9,Asharia,Void Barrage,Sigil of Misery,1
+MhK4B7L8VF1rvNw6,15,1,Primeval,Void Barrage,Wind Shear,1
+MhK4B7L8VF1rvNw6,15,26,Siare,Void Barrage,Mortal Coil,1
+MhK4B7L8VF1rvNw6,15,16,Hellspawn,Void Barrage,Disrupt,1
+MhK4B7L8VF1rvNw6,15,19,Decayed,Void Barrage,Mind Freeze,1
+MhK4B7L8VF1rvNw6,15,10,Meowrawrxo,Void Barrage,Skull Bash,1
+MhK4B7L8VF1rvNw6,15,146,Dotdotboom,Void Barrage,Axe Toss,1
+MhK4B7L8VF1rvNw6,15,7,Abrakadavar,Void Barrage,Counterspell,4
+MhK4B7L8VF1rvNw6,1,5,Lìllith,Voidbolt,Axe Toss,2
+MhK4B7L8VF1rvNw6,1,5,Lìllith,Voidbolt,Axe Toss,1
+MhK4B7L8VF1rvNw6,1,2,Sinfxl,Voidbolt,Counterspell,2
+MhK4B7L8VF1rvNw6,1,8,Grapey,Voidbolt,Mind Freeze,4
+MhK4B7L8VF1rvNw6,1,15,Mannarchy,Voidbolt,Rebuke,1
+MhK4B7L8VF1rvNw6,1,15,Mannarchy,Voidbolt,Hammer of Justice,1
+MhK4B7L8VF1rvNw6,1,11,Averlis,Voidbolt,Solar Beam,3
+MhK4B7L8VF1rvNw6,1,1,Primeval,Voidbolt,Wind Shear,1
+MhK4B7L8VF1rvNw6,1,13,Hörnstar,Voidbolt,Chaos Nova,3
+MhK4B7L8VF1rvNw6,1,7,Abrakadavar,Voidbolt,Counterspell,2
+MhK4B7L8VF1rvNw6,1,10,Meowrawrxo,Voidbolt,Skull Bash,4
+MhK4B7L8VF1rvNw6,2,6,Spàdes,Voidbolt,Pummel,4
+MhK4B7L8VF1rvNw6,2,5,Lìllith,Voidbolt,Axe Toss,1
+MhK4B7L8VF1rvNw6,2,2,Sinfxl,Voidbolt,Counterspell,1
+MhK4B7L8VF1rvNw6,2,15,Mannarchy,Voidbolt,Rebuke,3
+MhK4B7L8VF1rvNw6,2,15,Mannarchy,Voidbolt,Hammer of Justice,1
+MhK4B7L8VF1rvNw6,2,8,Grapey,Voidbolt,Mind Freeze,2
+MhK4B7L8VF1rvNw6,2,11,Averlis,Voidbolt,Solar Beam,1
+MhK4B7L8VF1rvNw6,2,13,Hörnstar,Voidbolt,Chaos Nova,18
+MhK4B7L8VF1rvNw6,2,13,Hörnstar,Voidbolt,Sigil of Misery,3
+MhK4B7L8VF1rvNw6,2,13,Hörnstar,Voidbolt,Metamorphosis,2
+MhK4B7L8VF1rvNw6,2,13,Hörnstar,Voidbolt,Disrupt,1
+MhK4B7L8VF1rvNw6,2,10,Meowrawrxo,Voidbolt,Skull Bash,6
+MhK4B7L8VF1rvNw6,2,23,Myroguëë,Voidbolt,Kick,3
+MhK4B7L8VF1rvNw6,3,6,Spàdes,Voidbolt,Pummel,2
+MhK4B7L8VF1rvNw6,3,5,Lìllith,Voidbolt,Axe Toss,2
+MhK4B7L8VF1rvNw6,3,15,Mannarchy,Voidbolt,Rebuke,2
+MhK4B7L8VF1rvNw6,3,15,Mannarchy,Voidbolt,Hammer of Justice,1
+MhK4B7L8VF1rvNw6,3,8,Grapey,Voidbolt,Mind Freeze,2
+MhK4B7L8VF1rvNw6,3,11,Averlis,Voidbolt,Solar Beam,1
+MhK4B7L8VF1rvNw6,3,26,Siare,Voidbolt,Spell Lock,1
+MhK4B7L8VF1rvNw6,3,13,Hörnstar,Voidbolt,Sigil of Misery,5
+MhK4B7L8VF1rvNw6,3,13,Hörnstar,Voidbolt,Chaos Nova,5
+MhK4B7L8VF1rvNw6,3,10,Meowrawrxo,Voidbolt,Skull Bash,1
+MhK4B7L8VF1rvNw6,3,7,Abrakadavar,Voidbolt,Counterspell,1
+MhK4B7L8VF1rvNw6,4,5,Lìllith,Voidbolt,Axe Toss,6
+MhK4B7L8VF1rvNw6,4,15,Mannarchy,Voidbolt,Rebuke,5
+MhK4B7L8VF1rvNw6,4,10,Meowrawrxo,Voidbolt,Skull Bash,3
+MhK4B7L8VF1rvNw6,4,13,Hörnstar,Voidbolt,Chaos Nova,27
+MhK4B7L8VF1rvNw6,4,13,Hörnstar,Voidbolt,Disrupt,1
+MhK4B7L8VF1rvNw6,4,11,Averlis,Voidbolt,Solar Beam,4
+MhK4B7L8VF1rvNw6,4,6,Spàdes,Voidbolt,Pummel,4
+MhK4B7L8VF1rvNw6,4,8,Grapey,Voidbolt,Mind Freeze,1
+mYdNtv2y6cRWXB4z,3,6,Sälazar,Anguished Cry,Counterspell,1
+mYdNtv2y6cRWXB4z,3,9,Littlejohn,Anguished Cry,Mind Freeze,1
+mYdNtv2y6cRWXB4z,3,16,Asharia,Anguished Cry,Disrupt,1
+mYdNtv2y6cRWXB4z,3,21,Danzilla,Anguished Cry,Counter Shot,1
+mYdNtv2y6cRWXB4z,3,13,Novachronos,Malice,Counterspell,1
+mYdNtv2y6cRWXB4z,3,20,Kainz,Malice,Pummel,1
+mYdNtv2y6cRWXB4z,3,15,Runé,Malice,Wind Shear,1
+mYdNtv2y6cRWXB4z,5,13,Novachronos,Anguished Cry,Counterspell,1
+mYdNtv2y6cRWXB4z,5,19,Boomchicky,Anguished Cry,Muzzle,1
+mYdNtv2y6cRWXB4z,5,5,Grapefantuh,Anguished Cry,Wind Shear,1
+mYdNtv2y6cRWXB4z,5,110,Sinfxl,Malice,Counterspell,1
+mYdNtv2y6cRWXB4z,5,20,Kainz,Malice,Pummel,1
+mYdNtv2y6cRWXB4z,5,16,Asharia,Malice,Disrupt,1
+NQ4D9vqkTjV16MPC,13,134,Dahlela,Pitch Bulwark,Silence,3
+NQ4D9vqkTjV16MPC,13,21,Synkro,Pitch Bulwark,Spear Hand Strike,1
+NQ4D9vqkTjV16MPC,13,12,Ilidank,Pitch Bulwark,Disrupt,1
+NQ4D9vqkTjV16MPC,19,134,Dahlela,Shadow Fracture,Silence,2
+NQ4D9vqkTjV16MPC,19,21,Synkro,Shadow Fracture,Spear Hand Strike,3
+NQ4D9vqkTjV16MPC,19,21,Synkro,Shadow Fracture,Leg Sweep,2
+NQ4D9vqkTjV16MPC,19,6,Decayed,Shadow Fracture,Blinding Sleet,1
+NQ4D9vqkTjV16MPC,19,12,Ilidank,Shadow Fracture,Disrupt,3
+NQ4D9vqkTjV16MPC,19,12,Ilidank,Shadow Fracture,Void Nova,1
+NQ4D9vqkTjV16MPC,19,9,Danzilla,Shadow Fracture,Counter Shot,1
+NQ4D9vqkTjV16MPC,19,22,Primeval,Shadow Fracture,Wind Shear,5
+NQ4D9vqkTjV16MPC,19,141,Zuriznikov,Shadow Fracture,Skull Bash,4
+NQ4D9vqkTjV16MPC,1,1,Lìllith,Poison Burst,Axe Toss,1
+NQ4D9vqkTjV16MPC,1,6,Decayed,Poison Burst,Mind Freeze,1
+NQ4D9vqkTjV16MPC,1,7,Averlis,Poison Burst,Solar Beam,1
+NQ4D9vqkTjV16MPC,1,12,Ilidank,Poison Burst,Disrupt,1
+NQ4D9vqkTjV16MPC,22,378,Sinfxl,Voidbolt,Counterspell,1
+NQ4D9vqkTjV16MPC,22,273,Averlin,Voidbolt,Capacitor Totem,2
+NQ4D9vqkTjV16MPC,22,273,Averlin,Voidbolt,Earthquake,2
+NQ4D9vqkTjV16MPC,22,273,Averlin,Voidbolt,Wind Shear,2
+NQ4D9vqkTjV16MPC,22,134,Dahlela,Voidbolt,Silence,4
+NQ4D9vqkTjV16MPC,22,134,Dahlela,Voidbolt,Psychic Scream,3
+NQ4D9vqkTjV16MPC,22,6,Decayed,Voidbolt,Mind Freeze,3
+NQ4D9vqkTjV16MPC,22,3,Siare,Voidbolt,Axe Toss,1
+NQ4D9vqkTjV16MPC,22,12,Ilidank,Voidbolt,Void Nova,3
+NQ4D9vqkTjV16MPC,22,9,Danzilla,Voidbolt,Counter Shot,7
+NQ4D9vqkTjV16MPC,25,12,Ilidank,Blinding Light,Disrupt,3
+NQ4D9vqkTjV16MPC,25,9,Danzilla,Blinding Light,Counter Shot,1
+NQ4D9vqkTjV16MPC,2,13,Greyseer,Poison Burst,Counter Shot,3
+NQ4D9vqkTjV16MPC,2,21,Synkro,Poison Burst,Spear Hand Strike,1
+NQ4D9vqkTjV16MPC,2,1,Lìllith,Poison Burst,Axe Toss,1
+NQ4D9vqkTjV16MPC,2,6,Decayed,Poison Burst,Mind Freeze,1
+NQ4D9vqkTjV16MPC,7,134,Dahlela,Fearsome Cry,Silence,1
+NQ4D9vqkTjV16MPC,7,19,Tavendar,Fearsome Cry,Hammer of Justice,1
+NQ4D9vqkTjV16MPC,7,7,Averlis,Fearsome Cry,Solar Beam,1
+NQ4D9vqkTjV16MPC,7,146,Leyendas,Essence Bolt,Disrupt,1
+NQ4D9vqkTjV16MPC,7,19,Tavendar,Essence Bolt,Rebuke,1
+NQ4D9vqkTjV16MPC,7,6,Decayed,Essence Bolt,Mind Freeze,1
+NQ4D9vqkTjV16MPC,7,12,Ilidank,Essence Bolt,Disrupt,1
+tmpfDPYH8C6vFAzh,15,3,Squalliiv,Icebound Flames,Rebuke,2
+tmpfDPYH8C6vFAzh,15,4,Raginbull,Icebound Flames,Pummel,1
+tmpfDPYH8C6vFAzh,15,7,Quetzalli,Icebound Flames,Spear Hand Strike,1
+tmpfDPYH8C6vFAzh,15,6,Shockabeotch,Icebound Flames,Wind Shear,2
+tmpfDPYH8C6vFAzh,15,16,Demonvini,Icebound Flames,Disrupt,5
+tmpfDPYH8C6vFAzh,15,2,Dshivà,Icebound Flames,Rebuke,1
+tmpfDPYH8C6vFAzh,15,19,Mydrood,Icebound Flames,Solar Beam,1
+tmpfDPYH8C6vFAzh,1,19,Mydrood,Possession Barrage,Typhoon,1
+tmpfDPYH8C6vFAzh,27,4,Raginbull,Eternal Nightfall,Pummel,1
+tmpfDPYH8C6vFAzh,27,13,Felphantomxx,Eternal Nightfall,Disrupt,1
+tmpfDPYH8C6vFAzh,27,2,Dshivà,Eternal Nightfall,Rebuke,1
+wqVm27KgQbYRd8pn,13,8,Meowrawrxo,Poison Burst,Skull Bash,1
+wqVm27KgQbYRd8pn,13,1,Decayed,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,14,8,Meowrawrxo,Poison Burst,Skull Bash,1
+wqVm27KgQbYRd8pn,14,7,Ilidank,Poison Burst,Disrupt,1
+wqVm27KgQbYRd8pn,14,3,Primeval,Poison Burst,Wind Shear,1
+wqVm27KgQbYRd8pn,15,21,Siare,Poison Burst,Axe Toss,1
+wqVm27KgQbYRd8pn,15,304,Maztajake,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,15,19,Sinfxl,Poison Burst,Counterspell,2
+wqVm27KgQbYRd8pn,15,12,Averlis,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,15,8,Meowrawrxo,Poison Burst,Skull Bash,1
+wqVm27KgQbYRd8pn,15,1,Decayed,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,15,7,Ilidank,Poison Burst,Disrupt,1
+wqVm27KgQbYRd8pn,15,8,Meowrawrxo,Festering Vines,Typhoon,1
+wqVm27KgQbYRd8pn,15,8,Meowrawrxo,Putrid Fist,Typhoon,1
+wqVm27KgQbYRd8pn,17,21,Siare,Poison Burst,Axe Toss,1
+wqVm27KgQbYRd8pn,17,19,Sinfxl,Poison Burst,Counterspell,4
+wqVm27KgQbYRd8pn,17,2,Tavendar,Poison Burst,Rebuke,1
+wqVm27KgQbYRd8pn,17,1,Decayed,Poison Burst,Mind Freeze,3
+wqVm27KgQbYRd8pn,17,7,Ilidank,Poison Burst,Disrupt,2
+wqVm27KgQbYRd8pn,17,3,Primeval,Poison Burst,Wind Shear,1
+wqVm27KgQbYRd8pn,18,304,Maztajake,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,18,12,Averlis,Poison Burst,Solar Beam,2
+wqVm27KgQbYRd8pn,18,2,Tavendar,Poison Burst,Rebuke,1
+wqVm27KgQbYRd8pn,18,9,Aurëus,Poison Burst,Rebuke,1
+wqVm27KgQbYRd8pn,18,7,Ilidank,Poison Burst,Disrupt,1
+wqVm27KgQbYRd8pn,18,3,Primeval,Poison Burst,Wind Shear,2
+wqVm27KgQbYRd8pn,19,21,Siare,Poison Burst,Axe Toss,1
+wqVm27KgQbYRd8pn,19,304,Maztajake,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,19,19,Sinfxl,Poison Burst,Counterspell,3
+wqVm27KgQbYRd8pn,19,12,Averlis,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,19,7,Ilidank,Poison Burst,Disrupt,1
+wqVm27KgQbYRd8pn,19,3,Primeval,Poison Burst,Wind Shear,1
+wqVm27KgQbYRd8pn,1,12,Averlis,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,1,7,Ilidank,Poison Burst,Disrupt,1
+wqVm27KgQbYRd8pn,1,14,Dystrophee,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,1,10,Whilton,Festering Vines,Typhoon,1
+wqVm27KgQbYRd8pn,20,21,Siare,Poison Burst,Axe Toss,1
+wqVm27KgQbYRd8pn,20,19,Sinfxl,Poison Burst,Counterspell,3
+wqVm27KgQbYRd8pn,20,600,Lìllith,Poison Burst,Axe Toss,2
+wqVm27KgQbYRd8pn,20,12,Averlis,Poison Burst,Solar Beam,1
+wqVm27KgQbYRd8pn,20,8,Meowrawrxo,Poison Burst,Skull Bash,1
+wqVm27KgQbYRd8pn,20,1,Decayed,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,20,7,Ilidank,Poison Burst,Disrupt,2
+wqVm27KgQbYRd8pn,20,14,Dystrophee,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,3,19,Sinfxl,Poison Burst,Counterspell,2
+wqVm27KgQbYRd8pn,3,12,Averlis,Poison Burst,Solar Beam,2
+wqVm27KgQbYRd8pn,3,15,Dahlela,Poison Burst,Silence,1
+wqVm27KgQbYRd8pn,3,1,Decayed,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,3,7,Ilidank,Poison Burst,Disrupt,2
+wqVm27KgQbYRd8pn,3,14,Dystrophee,Poison Burst,Mind Freeze,1
+wqVm27KgQbYRd8pn,3,8,Meowrawrxo,Putrid Fist,Typhoon,1
+wqVm27KgQbYRd8pn,6,8,Meowrawrxo,Heaven's Lance,Typhoon,1
+wqVm27KgQbYRd8pn,6,21,Siare,Safeguard,Shadowfury,2
+wqVm27KgQbYRd8pn,6,21,Siare,Safeguard,Axe Toss,1
+wqVm27KgQbYRd8pn,6,19,Sinfxl,Safeguard,Counterspell,2
+wqVm27KgQbYRd8pn,6,2,Tavendar,Safeguard,Blinding Light,1
+wqVm27KgQbYRd8pn,6,4,Mannarchy,Safeguard,Avenger's Shield,1
+wqVm27KgQbYRd8pn,6,4,Mannarchy,Safeguard,Rebuke,1
+wqVm27KgQbYRd8pn,6,15,Dahlela,Safeguard,Silence,2
+wqVm27KgQbYRd8pn,6,8,Meowrawrxo,Safeguard,Typhoon,2
+wqVm27KgQbYRd8pn,6,8,Meowrawrxo,Safeguard,Incapacitating Roar,2
+wqVm27KgQbYRd8pn,6,8,Meowrawrxo,Safeguard,Skull Bash,1
+wqVm27KgQbYRd8pn,6,10,Whilton,Safeguard,Skull Bash,2
+wqVm27KgQbYRd8pn,6,9,Aurëus,Safeguard,Rebuke,2
+wqVm27KgQbYRd8pn,6,9,Aurëus,Safeguard,Blinding Light,1
+wqVm27KgQbYRd8pn,6,1,Decayed,Safeguard,Mind Freeze,2
+wqVm27KgQbYRd8pn,6,1,Decayed,Safeguard,Blinding Sleet,1
+wqVm27KgQbYRd8pn,6,7,Ilidank,Safeguard,Void Nova,1
+wqVm27KgQbYRd8pn,6,7,Ilidank,Safeguard,Disrupt,1
+wqVm27KgQbYRd8pn,7,8,Meowrawrxo,Heaven's Lance,Typhoon,1
+wqVm27KgQbYRd8pn,7,21,Siare,Safeguard,Shadowfury,1
+wqVm27KgQbYRd8pn,7,2,Tavendar,Safeguard,Hammer of Justice,1
+wqVm27KgQbYRd8pn,7,2,Tavendar,Safeguard,Blinding Light,1
+wqVm27KgQbYRd8pn,7,4,Mannarchy,Safeguard,Rebuke,1
+wqVm27KgQbYRd8pn,7,15,Dahlela,Safeguard,Psychic Scream,3
+wqVm27KgQbYRd8pn,7,10,Whilton,Safeguard,Skull Bash,2
+wqVm27KgQbYRd8pn,7,8,Meowrawrxo,Safeguard,Skull Bash,2
+wqVm27KgQbYRd8pn,7,8,Meowrawrxo,Safeguard,Typhoon,2
+wqVm27KgQbYRd8pn,7,8,Meowrawrxo,Safeguard,Incapacitating Roar,1
+wqVm27KgQbYRd8pn,7,9,Aurëus,Safeguard,Rebuke,2
+wqVm27KgQbYRd8pn,7,1,Decayed,Safeguard,Blinding Sleet,1
+wqVm27KgQbYRd8pn,7,7,Ilidank,Safeguard,Void Nova,1
+wqVm27KgQbYRd8pn,7,7,Ilidank,Safeguard,Disrupt,1
+wqVm27KgQbYRd8pn,7,14,Dystrophee,Safeguard,Mind Freeze,1
+wqVm27KgQbYRd8pn,8,21,Siare,Safeguard,Shadowfury,2
+wqVm27KgQbYRd8pn,8,21,Siare,Safeguard,Axe Toss,1
+wqVm27KgQbYRd8pn,8,2,Tavendar,Safeguard,Rebuke,2
+wqVm27KgQbYRd8pn,8,2,Tavendar,Safeguard,Blinding Light,1
+wqVm27KgQbYRd8pn,8,4,Mannarchy,Safeguard,Avenger's Shield,1
+wqVm27KgQbYRd8pn,8,4,Mannarchy,Safeguard,Rebuke,1
+wqVm27KgQbYRd8pn,8,15,Dahlela,Safeguard,Psychic Scream,1
+wqVm27KgQbYRd8pn,8,15,Dahlela,Safeguard,Silence,1
+wqVm27KgQbYRd8pn,8,8,Meowrawrxo,Safeguard,Skull Bash,2
+wqVm27KgQbYRd8pn,8,8,Meowrawrxo,Safeguard,Typhoon,2
+wqVm27KgQbYRd8pn,8,10,Whilton,Safeguard,Skull Bash,2
+wqVm27KgQbYRd8pn,8,9,Aurëus,Safeguard,Rebuke,2
+wqVm27KgQbYRd8pn,8,9,Aurëus,Safeguard,Blinding Light,1
+wqVm27KgQbYRd8pn,8,1,Decayed,Safeguard,Mind Freeze,2
+wqVm27KgQbYRd8pn,8,1,Decayed,Safeguard,Blinding Sleet,1
+wqVm27KgQbYRd8pn,8,7,Ilidank,Safeguard,Void Nova,1
+wqVm27KgQbYRd8pn,8,7,Ilidank,Safeguard,Disrupt,1
+XvwLCVdhJKY73zHr,3,8,Sinfxl,Icebound Flames,Counterspell,4
+XvwLCVdhJKY73zHr,3,4,Decayed,Icebound Flames,Mind Freeze,1
+XvwLCVdhJKY73zHr,3,10,Novachronos,Icebound Flames,Counterspell,1
+XvwLCVdhJKY73zHr,3,47,Spàdes,Icebound Flames,Pummel,1
+XvwLCVdhJKY73zHr,3,16,Lìllith,Icebound Flames,Spell Lock,1
+XvwLCVdhJKY73zHr,3,15,Littlejohn,Icebound Flames,Mind Freeze,1
+XvwLCVdhJKY73zHr,3,9,Asharia,Icebound Flames,Disrupt,1
+XvwLCVdhJKY73zHr,3,23,Boomchicky,Icebound Flames,Muzzle,1
+XvwLCVdhJKY73zHr,3,12,Cainz,Icebound Flames,Kick,1
+XvwLCVdhJKY73zHr,6,4,Decayed,Icebound Flames,Mind Freeze,2
+XvwLCVdhJKY73zHr,6,47,Spàdes,Icebound Flames,Pummel,1
+XvwLCVdhJKY73zHr,6,16,Lìllith,Icebound Flames,Axe Toss,1
+XvwLCVdhJKY73zHr,6,33,Averlis,Icebound Flames,Solar Beam,1
+XvwLCVdhJKY73zHr,6,96,Maztajake,Icebound Flames,Solar Beam,2
+XvwLCVdhJKY73zHr,6,3,Grapeinator,Icebound Flames,Rebuke,1
+XvwLCVdhJKY73zHr,6,17,Stellanoova,Icebound Flames,Spear Hand Strike,1
+XvwLCVdhJKY73zHr,6,15,Littlejohn,Icebound Flames,Mind Freeze,1
+XvwLCVdhJKY73zHr,7,8,Sinfxl,Icebound Flames,Counterspell,4
+XvwLCVdhJKY73zHr,7,4,Decayed,Icebound Flames,Mind Freeze,2
+XvwLCVdhJKY73zHr,7,47,Spàdes,Icebound Flames,Pummel,1
+XvwLCVdhJKY73zHr,7,96,Maztajake,Icebound Flames,Solar Beam,1
+XvwLCVdhJKY73zHr,7,15,Littlejohn,Icebound Flames,Mind Freeze,2
+XvwLCVdhJKY73zHr,7,9,Asharia,Icebound Flames,Disrupt,1
+XvwLCVdhJKY73zHr,7,23,Boomchicky,Icebound Flames,Muzzle,1
+XvwLCVdhJKY73zHr,7,12,Cainz,Icebound Flames,Kick,1
+XvwLCVdhJKY73zHr,8,8,Sinfxl,Icebound Flames,Counterspell,3
+XvwLCVdhJKY73zHr,8,4,Decayed,Icebound Flames,Mind Freeze,2
+XvwLCVdhJKY73zHr,8,10,Novachronos,Icebound Flames,Counterspell,2
+XvwLCVdhJKY73zHr,8,3,Grapeinator,Icebound Flames,Rebuke,1
+XvwLCVdhJKY73zHr,8,9,Asharia,Icebound Flames,Disrupt,2
+XvwLCVdhJKY73zHr,8,15,Littlejohn,Icebound Flames,Mind Freeze,2
+XvwLCVdhJKY73zHr,8,23,Boomchicky,Icebound Flames,Muzzle,1
+XvwLCVdhJKY73zHr,8,12,Cainz,Icebound Flames,Kick,2
+yFTfaACXnD61KtLY,1,11,Littlejohn,Icebound Flames,Mind Freeze,2
+yFTfaACXnD61KtLY,1,21,Decayed,Icebound Flames,Mind Freeze,2
+yFTfaACXnD61KtLY,1,2,Spàdes,Icebound Flames,Pummel,1
+yFTfaACXnD61KtLY,1,17,Asharia,Icebound Flames,Disrupt,1
+yFTfaACXnD61KtLY,1,22,Boomchicky,Icebound Flames,Muzzle,1
+yFTfaACXnD61KtLY,1,18,Cainz,Icebound Flames,Kick,1
+yFTfaACXnD61KtLY,1,16,Maztajake,Icebound Flames,Solar Beam,1
+yFTfaACXnD61KtLY,1,4,Sinfxl,Icebound Flames,Counterspell,4
+yFTfaACXnD61KtLY,2,21,Decayed,Icebound Flames,Mind Freeze,2
+yFTfaACXnD61KtLY,2,11,Littlejohn,Icebound Flames,Mind Freeze,2
+yFTfaACXnD61KtLY,2,6,Grapeinator,Icebound Flames,Rebuke,1
+yFTfaACXnD61KtLY,2,17,Asharia,Icebound Flames,Disrupt,2
+yFTfaACXnD61KtLY,2,22,Boomchicky,Icebound Flames,Muzzle,1
+yFTfaACXnD61KtLY,2,18,Cainz,Icebound Flames,Kick,2
+yFTfaACXnD61KtLY,2,15,Novachronos,Icebound Flames,Counterspell,2
+yFTfaACXnD61KtLY,2,4,Sinfxl,Icebound Flames,Counterspell,3

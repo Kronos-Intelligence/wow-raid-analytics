@@ -1,0 +1,543 @@
+﻿report_code,fight_id,player_id,player_name,dispelled_ability,dispelling_ability,count
+1aJTBNphf8C4jGbr,16,1,Primeval,Dread Breath,Purify Spirit,3
+1aJTBNphf8C4jGbr,17,199,Maackuu,Dread Breath,Detox,3
+1aJTBNphf8C4jGbr,17,3,Chontosh,Dread Breath,Cleanse,2
+1aJTBNphf8C4jGbr,17,1,Primeval,Dread Breath,Purify Spirit,5
+1aJTBNphf8C4jGbr,21,199,Maackuu,Avenger's Shield,Detox,2
+1aJTBNphf8C4jGbr,21,3,Chontosh,Avenger's Shield,Cleanse,1
+1aJTBNphf8C4jGbr,21,1,Primeval,Avenger's Shield,Purify Spirit,1
+1aJTBNphf8C4jGbr,22,199,Maackuu,Avenger's Shield,Detox,5
+1aJTBNphf8C4jGbr,22,3,Chontosh,Avenger's Shield,Cleanse,4
+1aJTBNphf8C4jGbr,22,1,Primeval,Avenger's Shield,Purify Spirit,2
+1aJTBNphf8C4jGbr,23,229,Healsonyou,Avenger's Shield,Purify Spirit,2
+1aJTBNphf8C4jGbr,23,3,Chontosh,Avenger's Shield,Cleanse,1
+1aJTBNphf8C4jGbr,23,1,Primeval,Avenger's Shield,Purify Spirit,2
+1aJTBNphf8C4jGbr,23,137,Viserion,Avenger's Shield,Naturalize,1
+1aJTBNphf8C4jGbr,7,1,Primeval,Creep Spit,Purify Spirit,1
+1aJTBNphf8C4jGbr,7,1,Primeval,Creep Spit,Thunderous Paws,1
+1aJTBNphf8C4jGbr,7,1,Primeval,Blisterburst,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,15,99,Reignyskyes,Essence Rend,Purify Spirit,3
+1Pwx2hQvg7cDZbC9,15,93,Mârtirio,Essence Rend,Purify,5
+1Pwx2hQvg7cDZbC9,15,104,Chontosh,Essence Rend,Cleanse,7
+1Pwx2hQvg7cDZbC9,21,99,Reignyskyes,Blighted Blood,Purify Spirit,5
+1Pwx2hQvg7cDZbC9,21,93,Mârtirio,Blighted Blood,Purify,1
+1Pwx2hQvg7cDZbC9,24,99,Reignyskyes,Congealing Bolt,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,24,105,Sonshot,Congealing Bolt,Disengage,1
+1Pwx2hQvg7cDZbC9,24,99,Reignyskyes,Exploding Infection,Purify Spirit,2
+1Pwx2hQvg7cDZbC9,24,93,Mârtirio,Exploding Infection,Purify,9
+1Pwx2hQvg7cDZbC9,24,104,Chontosh,Exploding Infection,Cleanse,1
+1Pwx2hQvg7cDZbC9,33,113,Quetzalli,Tempest,Detox,6
+1Pwx2hQvg7cDZbC9,33,102,Lightbrood,Tempest,Cleanse Toxins,1
+1Pwx2hQvg7cDZbC9,41,113,Quetzalli,Skyfury,Arcane Torrent,1
+1Pwx2hQvg7cDZbC9,41,113,Quetzalli,Faith in Ula'tek,Arcane Torrent,1
+1Pwx2hQvg7cDZbC9,41,113,Quetzalli,Venomfang,Detox,1
+1Pwx2hQvg7cDZbC9,41,97,Dshivà,Venomfang,Cleanse Toxins,1
+1Pwx2hQvg7cDZbC9,41,271,Maztajake,Venomfang,Remove Corruption,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Atmospheric Exposure,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Corruption,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,41,93,Mârtirio,Corruption,Purify,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Moonfire,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,41,93,Mârtirio,Moonfire,Purify,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Sunfire,Purify Spirit,3
+1Pwx2hQvg7cDZbC9,41,93,Mârtirio,Sunfire,Purify,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Consecration,Thunderous Paws,1
+1Pwx2hQvg7cDZbC9,41,106,Khaztharion,Consecration,Deep Breath,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Astral Smolder,Purify Spirit,2
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Shadow Word: Pain,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,41,93,Mârtirio,Vampiric Touch,Purify,1
+1Pwx2hQvg7cDZbC9,41,93,Mârtirio,Fire Breath,Purify,1
+1Pwx2hQvg7cDZbC9,41,99,Reignyskyes,Agony,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,42,271,Maztajake,Curse of Weakness,Remove Corruption,1
+1Pwx2hQvg7cDZbC9,42,271,Maztajake,Venomfang,Remove Corruption,1
+1Pwx2hQvg7cDZbC9,42,103,Mydrood,Venomfang,Nature's Cure,1
+1Pwx2hQvg7cDZbC9,42,99,Reignyskyes,Atmospheric Exposure,Purify Spirit,2
+1Pwx2hQvg7cDZbC9,42,99,Reignyskyes,Corruption,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,42,93,Mârtirio,Corruption,Purify,1
+1Pwx2hQvg7cDZbC9,42,93,Mârtirio,Expurgation,Purify,1
+1Pwx2hQvg7cDZbC9,42,93,Mârtirio,Flame Shock,Purify,1
+1Pwx2hQvg7cDZbC9,42,93,Mârtirio,Moonfire,Purify,1
+1Pwx2hQvg7cDZbC9,42,103,Mydrood,Moonfire,Nature's Cure,1
+1Pwx2hQvg7cDZbC9,42,99,Reignyskyes,Sunfire,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,42,99,Reignyskyes,Astral Smolder,Purify Spirit,1
+1Pwx2hQvg7cDZbC9,42,93,Mârtirio,Vampiric Touch,Purify,1
+1Pwx2hQvg7cDZbC9,42,93,Mârtirio,Fire Breath,Purify,1
+1Pwx2hQvg7cDZbC9,42,103,Mydrood,Soul Anathema,Nature's Cure,1
+1Pwx2hQvg7cDZbC9,42,99,Reignyskyes,Agony,Purify Spirit,1
+2Hn6qhfTFaYytXrD,2,3,Illyy,Essence Rend,Purify,4
+2Hn6qhfTFaYytXrD,2,2,Letratrat,Essence Rend,Naturalize,1
+31PjbgTG8KDC9JBh,1,3,Soliloquy,Divine Shield,Mass Dispel,2
+31PjbgTG8KDC9JBh,1,5,Chontosh,Avenger's Shield,Cleanse,3
+31PjbgTG8KDC9JBh,1,9,Primeval,Avenger's Shield,Purify Spirit,12
+31PjbgTG8KDC9JBh,1,17,Siare,Avenger's Shield,Singe Magic,2
+31PjbgTG8KDC9JBh,1,17,Siare,Avenger's Shield,Singe Magic,1
+31PjbgTG8KDC9JBh,4,9,Primeval,Corrupting Essence,Purify Spirit,2
+31PjbgTG8KDC9JBh,4,12,Tavendar,Corrupting Essence,Cleanse,5
+31PjbgTG8KDC9JBh,4,17,Siare,Null Corona,Singe Magic,1
+31PjbgTG8KDC9JBh,5,9,Primeval,Corrupting Essence,Purify Spirit,1
+31PjbgTG8KDC9JBh,5,12,Tavendar,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,10,8,Primeval,Corrupting Essence,Purify Spirit,2
+3gymwM9c2Av4Xk6r,10,126,Chontosh,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,10,7,Zeleria,Corrupting Essence,Cleanse,3
+3gymwM9c2Av4Xk6r,10,11,Viserion,Null Corona,Naturalize,1
+3gymwM9c2Av4Xk6r,10,126,Chontosh,Null Corona,Cleanse,2
+3gymwM9c2Av4Xk6r,10,8,Primeval,Null Corona,Purify Spirit,1
+3gymwM9c2Av4Xk6r,11,8,Primeval,Corrupting Essence,Purify Spirit,2
+3gymwM9c2Av4Xk6r,11,126,Chontosh,Corrupting Essence,Cleanse,3
+3gymwM9c2Av4Xk6r,11,7,Zeleria,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,12,126,Chontosh,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,12,8,Primeval,Corrupting Essence,Purify Spirit,2
+3gymwM9c2Av4Xk6r,12,8,Primeval,Null Corona,Purify Spirit,2
+3gymwM9c2Av4Xk6r,13,8,Primeval,Corrupting Essence,Purify Spirit,3
+3gymwM9c2Av4Xk6r,13,8,Primeval,Null Corona,Purify Spirit,1
+3gymwM9c2Av4Xk6r,14,158,Mypriiest,Corrupting Essence,Purify,1
+3gymwM9c2Av4Xk6r,14,8,Primeval,Corrupting Essence,Purify Spirit,3
+3gymwM9c2Av4Xk6r,14,7,Zeleria,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,14,158,Mypriiest,Null Corona,Purify,1
+3gymwM9c2Av4Xk6r,14,8,Primeval,Null Corona,Purify Spirit,1
+3gymwM9c2Av4Xk6r,15,11,Viserion,Corrupting Essence,Naturalize,1
+3gymwM9c2Av4Xk6r,15,8,Primeval,Corrupting Essence,Purify Spirit,1
+3gymwM9c2Av4Xk6r,15,7,Zeleria,Corrupting Essence,Cleanse,4
+3gymwM9c2Av4Xk6r,15,126,Chontosh,Null Corona,Cleanse,3
+3gymwM9c2Av4Xk6r,15,8,Primeval,Null Corona,Purify Spirit,3
+3gymwM9c2Av4Xk6r,16,8,Primeval,Corrupting Essence,Purify Spirit,3
+3gymwM9c2Av4Xk6r,16,7,Zeleria,Corrupting Essence,Cleanse,3
+3gymwM9c2Av4Xk6r,16,11,Viserion,Null Corona,Naturalize,3
+3gymwM9c2Av4Xk6r,16,8,Primeval,Null Corona,Purify Spirit,2
+3gymwM9c2Av4Xk6r,16,7,Zeleria,Null Corona,Cleanse,1
+3gymwM9c2Av4Xk6r,17,8,Primeval,Corrupting Essence,Purify Spirit,2
+3gymwM9c2Av4Xk6r,17,7,Zeleria,Corrupting Essence,Cleanse,3
+3gymwM9c2Av4Xk6r,17,8,Primeval,Null Corona,Purify Spirit,1
+3gymwM9c2Av4Xk6r,1,13,Mntdewhealer,Avenger's Shield,Detox,5
+3gymwM9c2Av4Xk6r,1,8,Primeval,Avenger's Shield,Purify Spirit,3
+3gymwM9c2Av4Xk6r,1,7,Zeleria,Avenger's Shield,Cleanse,4
+3gymwM9c2Av4Xk6r,2,13,Mntdewhealer,Avenger's Shield,Detox,4
+3gymwM9c2Av4Xk6r,2,11,Viserion,Avenger's Shield,Naturalize,1
+3gymwM9c2Av4Xk6r,2,8,Primeval,Avenger's Shield,Purify Spirit,6
+3gymwM9c2Av4Xk6r,2,7,Zeleria,Avenger's Shield,Cleanse,5
+3gymwM9c2Av4Xk6r,3,13,Mntdewhealer,Avenger's Shield,Detox,12
+3gymwM9c2Av4Xk6r,3,13,Mntdewhealer,Avenger's Shield,Revival,7
+3gymwM9c2Av4Xk6r,3,8,Primeval,Avenger's Shield,Purify Spirit,13
+3gymwM9c2Av4Xk6r,3,7,Zeleria,Avenger's Shield,Cleanse,14
+3gymwM9c2Av4Xk6r,4,8,Primeval,Corrupting Essence,Purify Spirit,1
+3gymwM9c2Av4Xk6r,4,126,Chontosh,Null Corona,Cleanse,1
+3gymwM9c2Av4Xk6r,4,8,Primeval,Null Corona,Purify Spirit,1
+3gymwM9c2Av4Xk6r,6,7,Zeleria,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,6,126,Chontosh,Null Corona,Cleanse,2
+3gymwM9c2Av4Xk6r,6,8,Primeval,Null Corona,Purify Spirit,2
+3gymwM9c2Av4Xk6r,6,126,Chontosh,Null Corona,Cleanse,1
+3gymwM9c2Av4Xk6r,8,8,Primeval,Corrupting Essence,Purify Spirit,3
+3gymwM9c2Av4Xk6r,8,126,Chontosh,Null Corona,Cleanse,1
+3gymwM9c2Av4Xk6r,8,8,Primeval,Null Corona,Purify Spirit,1
+3gymwM9c2Av4Xk6r,9,8,Primeval,Corrupting Essence,Purify Spirit,3
+3gymwM9c2Av4Xk6r,9,126,Chontosh,Corrupting Essence,Cleanse,1
+3gymwM9c2Av4Xk6r,9,126,Chontosh,Null Corona,Cleanse,2
+3gymwM9c2Av4Xk6r,9,8,Primeval,Null Corona,Purify Spirit,1
+7fgDKpMGWzkq8Hbm,10,17,Primeval,Consuming Miasma,Purify Spirit,3
+7fgDKpMGWzkq8Hbm,10,15,Viserion,Consuming Miasma,Naturalize,2
+7fgDKpMGWzkq8Hbm,10,39,Emikohime,Consuming Miasma,Naturalize,1
+7fgDKpMGWzkq8Hbm,11,17,Primeval,Consuming Miasma,Purify Spirit,2
+7fgDKpMGWzkq8Hbm,11,15,Viserion,Consuming Miasma,Naturalize,1
+7fgDKpMGWzkq8Hbm,11,39,Emikohime,Consuming Miasma,Naturalize,1
+7fgDKpMGWzkq8Hbm,12,17,Primeval,Consuming Miasma,Purify Spirit,7
+7fgDKpMGWzkq8Hbm,12,15,Viserion,Consuming Miasma,Naturalize,5
+7fgDKpMGWzkq8Hbm,12,39,Emikohime,Consuming Miasma,Naturalize,2
+7fgDKpMGWzkq8Hbm,13,17,Primeval,Consuming Miasma,Purify Spirit,2
+7fgDKpMGWzkq8Hbm,3,17,Primeval,Consuming Miasma,Purify Spirit,5
+7fgDKpMGWzkq8Hbm,3,39,Emikohime,Consuming Miasma,Naturalize,5
+7fgDKpMGWzkq8Hbm,3,15,Viserion,Consuming Miasma,Naturalize,4
+7fgDKpMGWzkq8Hbm,4,42,Mortiis,Consuming Miasma,Purify Spirit,1
+7fgDKpMGWzkq8Hbm,4,17,Primeval,Consuming Miasma,Purify Spirit,9
+7fgDKpMGWzkq8Hbm,4,39,Emikohime,Consuming Miasma,Naturalize,5
+7fgDKpMGWzkq8Hbm,4,15,Viserion,Consuming Miasma,Naturalize,1
+7fgDKpMGWzkq8Hbm,5,17,Primeval,Consuming Miasma,Purify Spirit,3
+7fgDKpMGWzkq8Hbm,6,123,Chontosh,Consuming Miasma,Cleanse,2
+7fgDKpMGWzkq8Hbm,6,17,Primeval,Consuming Miasma,Purify Spirit,6
+7fgDKpMGWzkq8Hbm,6,39,Emikohime,Consuming Miasma,Naturalize,7
+7fgDKpMGWzkq8Hbm,6,15,Viserion,Consuming Miasma,Naturalize,7
+7fgDKpMGWzkq8Hbm,7,123,Chontosh,Consuming Miasma,Cleanse,2
+7fgDKpMGWzkq8Hbm,7,17,Primeval,Consuming Miasma,Purify Spirit,6
+7fgDKpMGWzkq8Hbm,7,39,Emikohime,Consuming Miasma,Naturalize,6
+7fgDKpMGWzkq8Hbm,7,15,Viserion,Consuming Miasma,Naturalize,7
+7fgDKpMGWzkq8Hbm,8,123,Chontosh,Consuming Miasma,Cleanse,1
+7fgDKpMGWzkq8Hbm,8,17,Primeval,Consuming Miasma,Purify Spirit,8
+7fgDKpMGWzkq8Hbm,8,15,Viserion,Consuming Miasma,Naturalize,6
+7fgDKpMGWzkq8Hbm,8,39,Emikohime,Consuming Miasma,Naturalize,6
+7fgDKpMGWzkq8Hbm,9,123,Chontosh,Consuming Miasma,Cleanse,1
+7fgDKpMGWzkq8Hbm,9,17,Primeval,Consuming Miasma,Purify Spirit,6
+7fgDKpMGWzkq8Hbm,9,15,Viserion,Consuming Miasma,Naturalize,5
+7fgDKpMGWzkq8Hbm,9,39,Emikohime,Consuming Miasma,Naturalize,4
+bdqfKFjLQXvM1ZJp,10,10,Primeval,Dread Breath,Purify Spirit,3
+bdqfKFjLQXvM1ZJp,11,10,Primeval,Dread Breath,Purify Spirit,5
+bdqfKFjLQXvM1ZJp,11,35,Chontosh,Dread Breath,Cleanse,1
+bdqfKFjLQXvM1ZJp,11,12,Mypriiest,Dread Breath,Purify,1
+bdqfKFjLQXvM1ZJp,12,10,Primeval,Dread Breath,Purify Spirit,1
+bdqfKFjLQXvM1ZJp,14,10,Primeval,Dread Breath,Purify Spirit,4
+bdqfKFjLQXvM1ZJp,14,35,Chontosh,Dread Breath,Cleanse,1
+bdqfKFjLQXvM1ZJp,14,12,Mypriiest,Dread Breath,Purify,1
+bdqfKFjLQXvM1ZJp,15,10,Primeval,Dread Breath,Purify Spirit,1
+bdqfKFjLQXvM1ZJp,15,12,Mypriiest,Dread Breath,Mass Dispel,4
+bdqfKFjLQXvM1ZJp,16,10,Primeval,Dread Breath,Purify Spirit,2
+bdqfKFjLQXvM1ZJp,16,35,Chontosh,Dread Breath,Cleanse,1
+bdqfKFjLQXvM1ZJp,17,10,Primeval,Dread Breath,Purify Spirit,6
+bdqfKFjLQXvM1ZJp,17,12,Mypriiest,Dread Breath,Purify,2
+bdqfKFjLQXvM1ZJp,18,10,Primeval,Dread Breath,Purify Spirit,3
+bdqfKFjLQXvM1ZJp,18,12,Mypriiest,Dread Breath,Purify,2
+bdqfKFjLQXvM1ZJp,19,10,Primeval,Dread Breath,Purify Spirit,1
+bdqfKFjLQXvM1ZJp,19,12,Mypriiest,Dread Breath,Purify,1
+bdqfKFjLQXvM1ZJp,2,10,Primeval,Blisterburst,Purify Spirit,2
+bdqfKFjLQXvM1ZJp,2,22,Unnerfable,Blisterburst,Cleanse,1
+bdqfKFjLQXvM1ZJp,2,10,Primeval,Creep Spit,Purify Spirit,2
+bdqfKFjLQXvM1ZJp,2,10,Primeval,Creep Spit,Thunderous Paws,1
+bdqfKFjLQXvM1ZJp,2,31,Greyseer,Creep Spit,Disengage,1
+D6gZPwN8vC1qAXKH,1,3,Soliloquy,Divine Shield,Mass Dispel,2
+D6gZPwN8vC1qAXKH,1,5,Chontosh,Avenger's Shield,Cleanse,3
+D6gZPwN8vC1qAXKH,1,17,Siare,Avenger's Shield,Singe Magic,2
+D6gZPwN8vC1qAXKH,1,17,Siare,Avenger's Shield,Singe Magic,1
+D6gZPwN8vC1qAXKH,1,9,Primeval,Avenger's Shield,Purify Spirit,12
+D6gZPwN8vC1qAXKH,4,12,Tavendar,Corrupting Essence,Cleanse,5
+D6gZPwN8vC1qAXKH,4,9,Primeval,Corrupting Essence,Purify Spirit,2
+D6gZPwN8vC1qAXKH,4,17,Siare,Null Corona,Singe Magic,1
+D6gZPwN8vC1qAXKH,5,12,Tavendar,Corrupting Essence,Cleanse,1
+D6gZPwN8vC1qAXKH,5,9,Primeval,Corrupting Essence,Purify Spirit,1
+DVPfBvHpYFwytd2G,10,25,Soliloquy,Consuming Miasma,Purify,1
+DVPfBvHpYFwytd2G,10,94,Claye,Consuming Miasma,Purify Spirit,1
+DVPfBvHpYFwytd2G,10,21,Chontosh,Consuming Miasma,Cleanse,2
+DVPfBvHpYFwytd2G,10,14,Primeval,Consuming Miasma,Purify Spirit,2
+DVPfBvHpYFwytd2G,11,25,Soliloquy,Consuming Miasma,Purify,1
+DVPfBvHpYFwytd2G,11,94,Claye,Consuming Miasma,Purify Spirit,1
+DVPfBvHpYFwytd2G,11,21,Chontosh,Consuming Miasma,Cleanse,2
+DVPfBvHpYFwytd2G,11,14,Primeval,Consuming Miasma,Purify Spirit,2
+DVPfBvHpYFwytd2G,12,25,Soliloquy,Consuming Miasma,Purify,1
+DVPfBvHpYFwytd2G,12,94,Claye,Consuming Miasma,Purify Spirit,2
+DVPfBvHpYFwytd2G,12,21,Chontosh,Consuming Miasma,Cleanse,3
+DVPfBvHpYFwytd2G,12,14,Primeval,Consuming Miasma,Purify Spirit,2
+DVPfBvHpYFwytd2G,6,21,Chontosh,Consuming Miasma,Cleanse,2
+DVPfBvHpYFwytd2G,7,25,Soliloquy,Consuming Miasma,Purify,2
+DVPfBvHpYFwytd2G,7,21,Chontosh,Consuming Miasma,Cleanse,2
+DVPfBvHpYFwytd2G,7,14,Primeval,Consuming Miasma,Purify Spirit,2
+DVPfBvHpYFwytd2G,8,21,Chontosh,Consuming Miasma,Cleanse,3
+DVPfBvHpYFwytd2G,8,14,Primeval,Consuming Miasma,Purify Spirit,3
+DVPfBvHpYFwytd2G,9,25,Soliloquy,Consuming Miasma,Purify,2
+DVPfBvHpYFwytd2G,9,94,Claye,Consuming Miasma,Purify Spirit,1
+DVPfBvHpYFwytd2G,9,21,Chontosh,Consuming Miasma,Cleanse,3
+DVPfBvHpYFwytd2G,9,14,Primeval,Consuming Miasma,Purify Spirit,3
+g2CL3b8YmcKyGwQD,14,36,Thehealer,Avenger's Shield,Purify,2
+g2CL3b8YmcKyGwQD,14,2,Chontosh,Avenger's Shield,Cleanse,1
+g2CL3b8YmcKyGwQD,15,36,Thehealer,Avenger's Shield,Purify,2
+g2CL3b8YmcKyGwQD,15,36,Thehealer,Avenger's Shield,Mass Dispel,1
+g2CL3b8YmcKyGwQD,15,2,Chontosh,Avenger's Shield,Cleanse,2
+g2CL3b8YmcKyGwQD,16,36,Thehealer,Divine Shield,Mass Dispel,2
+g2CL3b8YmcKyGwQD,16,36,Thehealer,Avenger's Shield,Purify,6
+g2CL3b8YmcKyGwQD,16,2,Chontosh,Avenger's Shield,Cleanse,5
+g2CL3b8YmcKyGwQD,17,36,Thehealer,Divine Shield,Mass Dispel,2
+g2CL3b8YmcKyGwQD,17,36,Thehealer,Avenger's Shield,Purify,12
+g2CL3b8YmcKyGwQD,17,2,Chontosh,Avenger's Shield,Cleanse,4
+g2CL3b8YmcKyGwQD,19,36,Thehealer,Avenger's Shield,Purify,9
+g2CL3b8YmcKyGwQD,19,36,Thehealer,Avenger's Shield,Mass Dispel,2
+g2CL3b8YmcKyGwQD,19,2,Chontosh,Avenger's Shield,Cleanse,7
+g2CL3b8YmcKyGwQD,20,36,Thehealer,Divine Shield,Mass Dispel,2
+g2CL3b8YmcKyGwQD,20,36,Thehealer,Avenger's Shield,Purify,16
+g2CL3b8YmcKyGwQD,20,36,Thehealer,Avenger's Shield,Mass Dispel,1
+g2CL3b8YmcKyGwQD,20,2,Chontosh,Avenger's Shield,Cleanse,12
+g2CL3b8YmcKyGwQD,21,36,Thehealer,Divine Shield,Mass Dispel,1
+g2CL3b8YmcKyGwQD,21,36,Thehealer,Avenger's Shield,Purify,3
+g2CL3b8YmcKyGwQD,21,2,Chontosh,Avenger's Shield,Cleanse,2
+GBXcvzpjkJAxCH6P,10,7,Edarnir,Blighted Blood,Cleanse,3
+GBXcvzpjkJAxCH6P,10,6,Mypriiest,Blighted Blood,Purify,5
+GBXcvzpjkJAxCH6P,10,6,Mypriiest,Blighted Blood,Mass Dispel,1
+GBXcvzpjkJAxCH6P,10,9,Bubblebie,Blighted Blood,Cleanse,5
+GBXcvzpjkJAxCH6P,17,7,Edarnir,Exploding Infection,Cleanse,6
+GBXcvzpjkJAxCH6P,17,6,Mypriiest,Exploding Infection,Purify,10
+GBXcvzpjkJAxCH6P,17,7,Edarnir,Congealing Bolt,Cleanse,1
+GBXcvzpjkJAxCH6P,17,6,Mypriiest,Congealing Bolt,Purify,1
+GBXcvzpjkJAxCH6P,17,2,Aiondormu,Congealing Bolt,Deep Breath,1
+GBXcvzpjkJAxCH6P,1,7,Edarnir,Essence Rend,Cleanse,3
+GBXcvzpjkJAxCH6P,1,6,Mypriiest,Essence Rend,Purify,7
+GBXcvzpjkJAxCH6P,1,3,Chontosh,Essence Rend,Cleanse,1
+GBXcvzpjkJAxCH6P,1,9,Bubblebie,Essence Rend,Cleanse,6
+GBXcvzpjkJAxCH6P,22,8,Ahhoy,Icebound Flames,Cleanse,1
+GBXcvzpjkJAxCH6P,29,11,Maztajake,Tempest,Remove Corruption,1
+GBXcvzpjkJAxCH6P,29,219,Hogo,Tempest,Cleanse,1
+GBXcvzpjkJAxCH6P,7,7,Edarnir,Blighted Blood,Cleanse,2
+GBXcvzpjkJAxCH6P,7,9,Bubblebie,Blighted Blood,Cleanse,1
+GBXcvzpjkJAxCH6P,9,7,Edarnir,Blighted Blood,Cleanse,3
+GBXcvzpjkJAxCH6P,9,9,Bubblebie,Blighted Blood,Cleanse,4
+H3WNRQj9wTF2kmc4,10,5,Shinier,Frost Fever,Cleanse,1
+H3WNRQj9wTF2kmc4,10,5,Shinier,Astral Smolder,Cleanse,4
+H3WNRQj9wTF2kmc4,10,5,Shinier,Flame Shock,Cleanse,4
+H3WNRQj9wTF2kmc4,10,5,Shinier,Shadow Word: Pain,Cleanse,1
+H3WNRQj9wTF2kmc4,10,5,Shinier,Moonfire,Cleanse,1
+H3WNRQj9wTF2kmc4,10,5,Shinier,Sunfire,Cleanse,2
+H3WNRQj9wTF2kmc4,10,5,Shinier,Venomfang,Cleanse,4
+H3WNRQj9wTF2kmc4,10,14,Geckofursona,Venomfang,Naturalize,1
+H3WNRQj9wTF2kmc4,10,4,Chontosh,Venomfang,Cleanse,1
+H3WNRQj9wTF2kmc4,10,3,Averlis,Venomfang,Remove Corruption,1
+H3WNRQj9wTF2kmc4,10,15,Maztajake,Venomfang,Remove Corruption,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Atmospheric Exposure,Cleanse,2
+H3WNRQj9wTF2kmc4,11,4,Chontosh,Atmospheric Exposure,Cleanse,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Frost Fever,Cleanse,1
+H3WNRQj9wTF2kmc4,11,1,Soliloquy,Arcane Intellect,Dispel Magic,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Blood Plague,Cleanse,4
+H3WNRQj9wTF2kmc4,11,4,Chontosh,Blood Plague,Cleanse,2
+H3WNRQj9wTF2kmc4,11,5,Shinier,Frostwyrm's Fury,Cleanse,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Astral Smolder,Cleanse,2
+H3WNRQj9wTF2kmc4,11,4,Chontosh,Astral Smolder,Cleanse,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Flame Shock,Cleanse,2
+H3WNRQj9wTF2kmc4,11,4,Chontosh,Flame Shock,Cleanse,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Typhoon,Cleanse,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Sunfire,Cleanse,2
+H3WNRQj9wTF2kmc4,11,1,Soliloquy,Mark of the Wild,Dispel Magic,1
+H3WNRQj9wTF2kmc4,11,5,Shinier,Venomfang,Cleanse,4
+H3WNRQj9wTF2kmc4,14,5,Shinier,Atmospheric Exposure,Cleanse,2
+H3WNRQj9wTF2kmc4,14,5,Shinier,Frost Fever,Cleanse,1
+H3WNRQj9wTF2kmc4,14,5,Shinier,Fire Breath,Cleanse,1
+H3WNRQj9wTF2kmc4,14,5,Shinier,Astral Smolder,Cleanse,3
+H3WNRQj9wTF2kmc4,14,5,Shinier,Moonfire,Cleanse,1
+H3WNRQj9wTF2kmc4,14,5,Shinier,Sunfire,Cleanse,3
+H3WNRQj9wTF2kmc4,14,5,Shinier,Venomfang,Cleanse,4
+H3WNRQj9wTF2kmc4,14,15,Maztajake,Venomfang,Remove Corruption,1
+H3WNRQj9wTF2kmc4,14,17,Asharia,Power Word: Fortitude,Consume Magic,1
+H3WNRQj9wTF2kmc4,15,5,Shinier,Venomfang,Cleanse,6
+H3WNRQj9wTF2kmc4,15,15,Maztajake,Venomfang,Remove Corruption,2
+H3WNRQj9wTF2kmc4,16,5,Shinier,Atmospheric Exposure,Cleanse,1
+H3WNRQj9wTF2kmc4,16,5,Shinier,Frailty,Cleanse,1
+H3WNRQj9wTF2kmc4,16,5,Shinier,Fire Breath,Cleanse,1
+H3WNRQj9wTF2kmc4,16,5,Shinier,Flame Shock,Cleanse,4
+H3WNRQj9wTF2kmc4,16,5,Shinier,Astral Smolder,Cleanse,3
+H3WNRQj9wTF2kmc4,16,5,Shinier,Moonfire,Cleanse,2
+H3WNRQj9wTF2kmc4,16,5,Shinier,Sanctified Armaments,Cleanse,1
+H3WNRQj9wTF2kmc4,16,21,Kainz,Earthbind,Bladestorm,1
+H3WNRQj9wTF2kmc4,16,5,Shinier,Sunfire,Cleanse,3
+H3WNRQj9wTF2kmc4,16,5,Shinier,Venomfang,Cleanse,4
+H3WNRQj9wTF2kmc4,17,5,Shinier,Atmospheric Exposure,Cleanse,1
+H3WNRQj9wTF2kmc4,17,5,Shinier,Venomfang,Cleanse,1
+H3WNRQj9wTF2kmc4,17,5,Shinier,Frost Fever,Cleanse,1
+H3WNRQj9wTF2kmc4,17,5,Shinier,Blood Plague,Cleanse,3
+H3WNRQj9wTF2kmc4,17,5,Shinier,Fire Breath,Cleanse,1
+H3WNRQj9wTF2kmc4,17,5,Shinier,Astral Smolder,Cleanse,3
+H3WNRQj9wTF2kmc4,17,5,Shinier,Moonfire,Cleanse,3
+H3WNRQj9wTF2kmc4,17,5,Shinier,Sunfire,Cleanse,2
+H3WNRQj9wTF2kmc4,17,5,Shinier,Venomfang,Cleanse,4
+H3WNRQj9wTF2kmc4,17,15,Maztajake,Venomfang,Remove Corruption,1
+H3WNRQj9wTF2kmc4,18,5,Shinier,Atmospheric Exposure,Cleanse,3
+H3WNRQj9wTF2kmc4,18,5,Shinier,Frost Fever,Cleanse,1
+H3WNRQj9wTF2kmc4,18,5,Shinier,Blood Plague,Cleanse,1
+H3WNRQj9wTF2kmc4,18,5,Shinier,Fire Breath,Cleanse,1
+H3WNRQj9wTF2kmc4,18,5,Shinier,Astral Smolder,Cleanse,5
+H3WNRQj9wTF2kmc4,18,5,Shinier,Shadow Word: Pain,Cleanse,2
+H3WNRQj9wTF2kmc4,18,5,Shinier,Sunfire,Cleanse,1
+H3WNRQj9wTF2kmc4,18,5,Shinier,Capacitor Totem,Cleanse,1
+H3WNRQj9wTF2kmc4,18,5,Shinier,Venomfang,Cleanse,4
+H3WNRQj9wTF2kmc4,18,15,Maztajake,Venomfang,Remove Corruption,1
+H3WNRQj9wTF2kmc4,1,5,Shinier,Tempest,Cleanse,10
+H3WNRQj9wTF2kmc4,1,7,Viserion,Tempest,Expunge,1
+H3WNRQj9wTF2kmc4,1,14,Geckofursona,Tempest,Naturalize,3
+H3WNRQj9wTF2kmc4,1,4,Chontosh,Tempest,Cleanse,2
+H3WNRQj9wTF2kmc4,1,3,Averlis,Tempest,Remove Corruption,1
+H3WNRQj9wTF2kmc4,1,15,Maztajake,Tempest,Remove Corruption,8
+hY2VNwq1nWfMKFxm,14,11,Shinier,Exploding Infection,Cleanse,10
+hY2VNwq1nWfMKFxm,14,10,Mydrood,Exploding Infection,Nature's Cure,3
+hY2VNwq1nWfMKFxm,14,9,Stellanoova,Congealing Bolt,Tiger's Lust,1
+hY2VNwq1nWfMKFxm,14,2,Scamanes,Congealing Bolt,Thunderous Paws,2
+hY2VNwq1nWfMKFxm,14,13,Chinashop,Congealing Bolt,Thunderous Paws,2
+hY2VNwq1nWfMKFxm,14,3,Averlis,Congealing Bolt,Moonkin Form,1
+hY2VNwq1nWfMKFxm,14,11,Shinier,Congealing Bolt,Cleanse,10
+hY2VNwq1nWfMKFxm,14,5,Chontosh,Congealing Bolt,Cleanse,3
+hY2VNwq1nWfMKFxm,14,10,Mydrood,Congealing Bolt,Cat Form,2
+hY2VNwq1nWfMKFxm,18,11,Shinier,Exploding Infection,Cleanse,10
+hY2VNwq1nWfMKFxm,18,10,Mydrood,Exploding Infection,Nature's Cure,4
+hY2VNwq1nWfMKFxm,18,4,Geckofursona,Exploding Infection,Naturalize,2
+hY2VNwq1nWfMKFxm,18,9,Stellanoova,Congealing Bolt,Tiger's Lust,1
+hY2VNwq1nWfMKFxm,18,13,Chinashop,Congealing Bolt,Thunderous Paws,1
+hY2VNwq1nWfMKFxm,18,19,Mets,Congealing Bolt,Disengage,1
+hY2VNwq1nWfMKFxm,18,11,Shinier,Congealing Bolt,Cleanse,13
+hY2VNwq1nWfMKFxm,18,5,Chontosh,Congealing Bolt,Cleanse,1
+hY2VNwq1nWfMKFxm,20,11,Shinier,Exploding Infection,Cleanse,7
+hY2VNwq1nWfMKFxm,20,10,Mydrood,Exploding Infection,Nature's Cure,2
+hY2VNwq1nWfMKFxm,20,4,Geckofursona,Exploding Infection,Naturalize,3
+hY2VNwq1nWfMKFxm,20,19,Mets,Congealing Bolt,Disengage,1
+hY2VNwq1nWfMKFxm,20,14,Maztajake,Congealing Bolt,Moonkin Form,1
+hY2VNwq1nWfMKFxm,20,11,Shinier,Congealing Bolt,Cleanse,12
+hY2VNwq1nWfMKFxm,20,12,Lìllith,Congealing Bolt,Singe Magic,1
+hY2VNwq1nWfMKFxm,20,4,Geckofursona,Congealing Bolt,Naturalize,1
+hY2VNwq1nWfMKFxm,22,11,Shinier,Exploding Infection,Cleanse,13
+hY2VNwq1nWfMKFxm,22,10,Mydrood,Exploding Infection,Nature's Cure,4
+hY2VNwq1nWfMKFxm,22,4,Geckofursona,Exploding Infection,Naturalize,1
+hY2VNwq1nWfMKFxm,22,13,Chinashop,Congealing Bolt,Thunderous Paws,1
+hY2VNwq1nWfMKFxm,22,11,Shinier,Congealing Bolt,Cleanse,16
+hY2VNwq1nWfMKFxm,22,10,Mydrood,Congealing Bolt,Nature's Cure,1
+hY2VNwq1nWfMKFxm,22,4,Geckofursona,Congealing Bolt,Naturalize,2
+hY2VNwq1nWfMKFxm,3,11,Shinier,Blighted Blood,Cleanse,2
+hY2VNwq1nWfMKFxm,3,10,Mydrood,Blighted Blood,Nature's Cure,1
+hY2VNwq1nWfMKFxm,9,11,Shinier,Exploding Infection,Cleanse,16
+hY2VNwq1nWfMKFxm,9,10,Mydrood,Exploding Infection,Nature's Cure,2
+hY2VNwq1nWfMKFxm,9,4,Geckofursona,Exploding Infection,Naturalize,2
+hY2VNwq1nWfMKFxm,9,13,Chinashop,Congealing Bolt,Thunderous Paws,1
+hY2VNwq1nWfMKFxm,9,11,Shinier,Congealing Bolt,Cleanse,18
+hY2VNwq1nWfMKFxm,9,5,Chontosh,Congealing Bolt,Cleanse,6
+hY2VNwq1nWfMKFxm,9,10,Mydrood,Congealing Bolt,Cat Form,3
+hY2VNwq1nWfMKFxm,9,10,Mydrood,Congealing Bolt,Bear Form,1
+hY2VNwq1nWfMKFxm,9,10,Mydrood,Congealing Bolt,Nature's Cure,1
+hY2VNwq1nWfMKFxm,9,12,Lìllith,Congealing Bolt,Singe Magic,1
+hY2VNwq1nWfMKFxm,9,4,Geckofursona,Congealing Bolt,Naturalize,3
+MhK4B7L8VF1rvNw6,10,1,Primeval,Avenger's Shield,Purify Spirit,4
+MhK4B7L8VF1rvNw6,11,14,Chontosh,Avenger's Shield,Cleanse,8
+MhK4B7L8VF1rvNw6,11,1,Primeval,Avenger's Shield,Purify Spirit,14
+MhK4B7L8VF1rvNw6,12,14,Chontosh,Avenger's Shield,Cleanse,3
+MhK4B7L8VF1rvNw6,12,1,Primeval,Avenger's Shield,Purify Spirit,12
+MhK4B7L8VF1rvNw6,12,146,Dotdotboom,Avenger's Shield,Singe Magic,1
+MhK4B7L8VF1rvNw6,14,4,Czy,Corrupting Essence,Cleanse,4
+MhK4B7L8VF1rvNw6,14,14,Chontosh,Corrupting Essence,Cleanse,4
+MhK4B7L8VF1rvNw6,14,1,Primeval,Corrupting Essence,Purify Spirit,9
+MhK4B7L8VF1rvNw6,14,146,Dotdotboom,Null Corona,Singe Magic,1
+MhK4B7L8VF1rvNw6,14,1,Primeval,Null Corona,Purify Spirit,1
+MhK4B7L8VF1rvNw6,15,4,Czy,Corrupting Essence,Cleanse,5
+MhK4B7L8VF1rvNw6,15,14,Chontosh,Corrupting Essence,Cleanse,9
+MhK4B7L8VF1rvNw6,15,1,Primeval,Corrupting Essence,Purify Spirit,9
+MhK4B7L8VF1rvNw6,15,1,Primeval,Null Corona,Purify Spirit,1
+MhK4B7L8VF1rvNw6,2,4,Czy,Dread Breath,Cleanse,2
+MhK4B7L8VF1rvNw6,3,4,Czy,Dread Breath,Cleanse,1
+MhK4B7L8VF1rvNw6,3,1,Primeval,Dread Breath,Purify Spirit,2
+MhK4B7L8VF1rvNw6,4,4,Czy,Dread Breath,Cleanse,2
+MhK4B7L8VF1rvNw6,4,1,Primeval,Dread Breath,Purify Spirit,4
+MhK4B7L8VF1rvNw6,4,14,Chontosh,Dread Breath,Cleanse,1
+mYdNtv2y6cRWXB4z,10,2,Chontosh,Essence Rend,Cleanse,6
+mYdNtv2y6cRWXB4z,10,1,Soliloquy,Essence Rend,Purify,4
+mYdNtv2y6cRWXB4z,10,3,Shinier,Essence Rend,Cleanse,4
+mYdNtv2y6cRWXB4z,10,4,Geckofursona,Essence Rend,Naturalize,2
+mYdNtv2y6cRWXB4z,11,2,Chontosh,Essence Rend,Cleanse,6
+mYdNtv2y6cRWXB4z,11,1,Soliloquy,Essence Rend,Purify,3
+mYdNtv2y6cRWXB4z,11,3,Shinier,Essence Rend,Cleanse,8
+mYdNtv2y6cRWXB4z,11,4,Geckofursona,Essence Rend,Naturalize,5
+mYdNtv2y6cRWXB4z,3,11,Stellanoova,Hobbled,Tiger's Lust,1
+mYdNtv2y6cRWXB4z,3,3,Shinier,Acidic Burst,Cleanse,1
+mYdNtv2y6cRWXB4z,5,11,Stellanoova,Hobbled,Tiger's Lust,1
+mYdNtv2y6cRWXB4z,5,3,Shinier,Acidic Burst,Cleanse,1
+mYdNtv2y6cRWXB4z,7,2,Chontosh,Essence Rend,Cleanse,1
+mYdNtv2y6cRWXB4z,7,3,Shinier,Essence Rend,Cleanse,2
+mYdNtv2y6cRWXB4z,7,4,Geckofursona,Essence Rend,Naturalize,1
+mYdNtv2y6cRWXB4z,9,2,Chontosh,Essence Rend,Cleanse,3
+mYdNtv2y6cRWXB4z,9,1,Soliloquy,Essence Rend,Purify,4
+mYdNtv2y6cRWXB4z,9,3,Shinier,Essence Rend,Cleanse,5
+mYdNtv2y6cRWXB4z,9,4,Geckofursona,Essence Rend,Naturalize,2
+mYTZPFwjfK8xbHQ1,1,4,Chontosh,Tempest,Cleanse,2
+mYTZPFwjfK8xbHQ1,1,14,Geckofursona,Tempest,Naturalize,3
+mYTZPFwjfK8xbHQ1,1,3,Averlis,Tempest,Remove Corruption,1
+mYTZPFwjfK8xbHQ1,1,7,Viserion,Tempest,Expunge,1
+mYTZPFwjfK8xbHQ1,1,15,Maztajake,Tempest,Remove Corruption,8
+mYTZPFwjfK8xbHQ1,1,5,Shinier,Tempest,Cleanse,10
+NQ4D9vqkTjV16MPC,16,22,Primeval,Creep Spit,Purify Spirit,3
+NQ4D9vqkTjV16MPC,16,22,Primeval,Creep Spit,Thunderous Paws,1
+NQ4D9vqkTjV16MPC,16,22,Primeval,Blisterburst,Purify Spirit,1
+NQ4D9vqkTjV16MPC,22,22,Primeval,Dread Breath,Purify Spirit,7
+NQ4D9vqkTjV16MPC,25,135,Soliloquy,Divine Shield,Mass Dispel,2
+NQ4D9vqkTjV16MPC,25,20,Chontosh,Avenger's Shield,Cleanse,3
+NQ4D9vqkTjV16MPC,25,22,Primeval,Avenger's Shield,Purify Spirit,14
+NQ4D9vqkTjV16MPC,6,135,Soliloquy,Consuming Miasma,Purify,2
+NQ4D9vqkTjV16MPC,6,20,Chontosh,Consuming Miasma,Cleanse,1
+NQ4D9vqkTjV16MPC,6,22,Primeval,Consuming Miasma,Purify Spirit,3
+NQ4D9vqkTjV16MPC,7,135,Soliloquy,Consuming Miasma,Purify,5
+NQ4D9vqkTjV16MPC,7,20,Chontosh,Consuming Miasma,Cleanse,2
+NQ4D9vqkTjV16MPC,7,3,Siare,Consuming Miasma,Singe Magic,1
+NQ4D9vqkTjV16MPC,7,22,Primeval,Consuming Miasma,Purify Spirit,5
+tmpfDPYH8C6vFAzh,10,15,Reignyskyes,Congealing Bolt,Purify Spirit,1
+tmpfDPYH8C6vFAzh,10,12,Sonshot,Congealing Bolt,Disengage,1
+tmpfDPYH8C6vFAzh,10,9,Chontosh,Exploding Infection,Cleanse,1
+tmpfDPYH8C6vFAzh,10,15,Reignyskyes,Exploding Infection,Purify Spirit,2
+tmpfDPYH8C6vFAzh,10,10,Mârtirio,Exploding Infection,Purify,9
+tmpfDPYH8C6vFAzh,19,7,Quetzalli,Tempest,Detox,6
+tmpfDPYH8C6vFAzh,19,5,Lightbrood,Tempest,Cleanse Toxins,1
+tmpfDPYH8C6vFAzh,1,9,Chontosh,Essence Rend,Cleanse,7
+tmpfDPYH8C6vFAzh,1,15,Reignyskyes,Essence Rend,Purify Spirit,3
+tmpfDPYH8C6vFAzh,1,10,Mârtirio,Essence Rend,Purify,5
+tmpfDPYH8C6vFAzh,27,11,Khaztharion,Consecration,Deep Breath,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Consecration,Thunderous Paws,1
+tmpfDPYH8C6vFAzh,27,7,Quetzalli,Skyfury,Arcane Torrent,1
+tmpfDPYH8C6vFAzh,27,10,Mârtirio,Fire Breath,Purify,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Agony,Purify Spirit,1
+tmpfDPYH8C6vFAzh,27,181,Maztajake,Venomfang,Remove Corruption,1
+tmpfDPYH8C6vFAzh,27,7,Quetzalli,Venomfang,Detox,1
+tmpfDPYH8C6vFAzh,27,2,Dshivà,Venomfang,Cleanse Toxins,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Sunfire,Purify Spirit,3
+tmpfDPYH8C6vFAzh,27,10,Mârtirio,Sunfire,Purify,1
+tmpfDPYH8C6vFAzh,27,7,Quetzalli,Faith in Ula'tek,Arcane Torrent,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Moonfire,Purify Spirit,1
+tmpfDPYH8C6vFAzh,27,10,Mârtirio,Moonfire,Purify,1
+tmpfDPYH8C6vFAzh,27,10,Mârtirio,Vampiric Touch,Purify,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Atmospheric Exposure,Purify Spirit,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Astral Smolder,Purify Spirit,2
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Corruption,Purify Spirit,1
+tmpfDPYH8C6vFAzh,27,10,Mârtirio,Corruption,Purify,1
+tmpfDPYH8C6vFAzh,27,15,Reignyskyes,Shadow Word: Pain,Purify Spirit,1
+tmpfDPYH8C6vFAzh,7,15,Reignyskyes,Blighted Blood,Purify Spirit,5
+tmpfDPYH8C6vFAzh,7,10,Mârtirio,Blighted Blood,Purify,1
+XvwLCVdhJKY73zHr,10,33,Averlis,Tempest,Remove Corruption,2
+XvwLCVdhJKY73zHr,10,7,Shinier,Tempest,Cleanse,6
+XvwLCVdhJKY73zHr,11,5,Tavendar,Tempest,Cleanse,2
+XvwLCVdhJKY73zHr,11,7,Shinier,Tempest,Cleanse,6
+XvwLCVdhJKY73zHr,11,96,Maztajake,Tempest,Remove Corruption,1
+XvwLCVdhJKY73zHr,13,5,Tavendar,Tempest,Cleanse,1
+XvwLCVdhJKY73zHr,13,7,Shinier,Tempest,Cleanse,4
+XvwLCVdhJKY73zHr,13,96,Maztajake,Tempest,Remove Corruption,1
+XvwLCVdhJKY73zHr,14,140,Chontosh,Tempest,Cleanse,1
+XvwLCVdhJKY73zHr,14,7,Shinier,Tempest,Cleanse,5
+XvwLCVdhJKY73zHr,14,96,Maztajake,Tempest,Remove Corruption,1
+XvwLCVdhJKY73zHr,15,140,Chontosh,Tempest,Cleanse,2
+XvwLCVdhJKY73zHr,15,5,Tavendar,Tempest,Cleanse,3
+XvwLCVdhJKY73zHr,15,33,Averlis,Tempest,Remove Corruption,2
+XvwLCVdhJKY73zHr,15,7,Shinier,Tempest,Cleanse,7
+XvwLCVdhJKY73zHr,16,5,Tavendar,Tempest,Cleanse,2
+XvwLCVdhJKY73zHr,16,33,Averlis,Tempest,Remove Corruption,1
+XvwLCVdhJKY73zHr,16,7,Shinier,Tempest,Cleanse,2
+XvwLCVdhJKY73zHr,17,140,Chontosh,Tempest,Cleanse,2
+XvwLCVdhJKY73zHr,17,33,Averlis,Tempest,Remove Corruption,2
+XvwLCVdhJKY73zHr,17,7,Shinier,Tempest,Cleanse,7
+XvwLCVdhJKY73zHr,18,140,Chontosh,Tempest,Cleanse,3
+XvwLCVdhJKY73zHr,18,5,Tavendar,Tempest,Cleanse,3
+XvwLCVdhJKY73zHr,18,7,Shinier,Tempest,Cleanse,5
+XvwLCVdhJKY73zHr,19,140,Chontosh,Tempest,Cleanse,8
+XvwLCVdhJKY73zHr,19,5,Tavendar,Tempest,Cleanse,10
+XvwLCVdhJKY73zHr,19,7,Shinier,Tempest,Cleanse,9
+XvwLCVdhJKY73zHr,19,3,Grapeinator,Tempest,Cleanse Toxins,3
+XvwLCVdhJKY73zHr,21,140,Chontosh,Tempest,Cleanse,3
+XvwLCVdhJKY73zHr,21,5,Tavendar,Tempest,Cleanse,1
+XvwLCVdhJKY73zHr,21,7,Shinier,Tempest,Cleanse,3
+XvwLCVdhJKY73zHr,21,3,Grapeinator,Tempest,Cleanse Toxins,1
+XvwLCVdhJKY73zHr,22,140,Chontosh,Tempest,Cleanse,4
+XvwLCVdhJKY73zHr,22,5,Tavendar,Tempest,Cleanse,5
+XvwLCVdhJKY73zHr,22,7,Shinier,Tempest,Cleanse,5
+yFTfaACXnD61KtLY,10,9,Shinier,Tempest,Cleanse,2
+yFTfaACXnD61KtLY,10,3,Averlis,Tempest,Remove Corruption,1
+yFTfaACXnD61KtLY,10,24,Tavendar,Tempest,Cleanse,2
+yFTfaACXnD61KtLY,11,9,Shinier,Tempest,Cleanse,7
+yFTfaACXnD61KtLY,11,7,Chontosh,Tempest,Cleanse,2
+yFTfaACXnD61KtLY,11,3,Averlis,Tempest,Remove Corruption,2
+yFTfaACXnD61KtLY,12,9,Shinier,Tempest,Cleanse,5
+yFTfaACXnD61KtLY,12,7,Chontosh,Tempest,Cleanse,3
+yFTfaACXnD61KtLY,12,24,Tavendar,Tempest,Cleanse,3
+yFTfaACXnD61KtLY,13,9,Shinier,Tempest,Cleanse,9
+yFTfaACXnD61KtLY,13,7,Chontosh,Tempest,Cleanse,8
+yFTfaACXnD61KtLY,13,6,Grapeinator,Tempest,Cleanse Toxins,3
+yFTfaACXnD61KtLY,13,24,Tavendar,Tempest,Cleanse,10
+yFTfaACXnD61KtLY,15,9,Shinier,Tempest,Cleanse,3
+yFTfaACXnD61KtLY,15,7,Chontosh,Tempest,Cleanse,3
+yFTfaACXnD61KtLY,15,6,Grapeinator,Tempest,Cleanse Toxins,1
+yFTfaACXnD61KtLY,15,24,Tavendar,Tempest,Cleanse,1
+yFTfaACXnD61KtLY,16,9,Shinier,Tempest,Cleanse,5
+yFTfaACXnD61KtLY,16,7,Chontosh,Tempest,Cleanse,4
+yFTfaACXnD61KtLY,16,24,Tavendar,Tempest,Cleanse,5
+yFTfaACXnD61KtLY,4,9,Shinier,Tempest,Cleanse,6
+yFTfaACXnD61KtLY,4,3,Averlis,Tempest,Remove Corruption,2
+yFTfaACXnD61KtLY,5,9,Shinier,Tempest,Cleanse,6
+yFTfaACXnD61KtLY,5,24,Tavendar,Tempest,Cleanse,2
+yFTfaACXnD61KtLY,5,16,Maztajake,Tempest,Remove Corruption,1
+yFTfaACXnD61KtLY,7,9,Shinier,Tempest,Cleanse,4
+yFTfaACXnD61KtLY,7,24,Tavendar,Tempest,Cleanse,1
+yFTfaACXnD61KtLY,7,16,Maztajake,Tempest,Remove Corruption,1
+yFTfaACXnD61KtLY,8,9,Shinier,Tempest,Cleanse,5
+yFTfaACXnD61KtLY,8,7,Chontosh,Tempest,Cleanse,1
+yFTfaACXnD61KtLY,8,16,Maztajake,Tempest,Remove Corruption,1
+yFTfaACXnD61KtLY,9,9,Shinier,Tempest,Cleanse,7
+yFTfaACXnD61KtLY,9,7,Chontosh,Tempest,Cleanse,2
+yFTfaACXnD61KtLY,9,3,Averlis,Tempest,Remove Corruption,2
+yFTfaACXnD61KtLY,9,24,Tavendar,Tempest,Cleanse,3
