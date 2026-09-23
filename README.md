@@ -1,4 +1,3 @@
-@@ -0,0 +1,556 @@
 # World of Warcraft Raid Analytics
 
 An end-to-end analytics project that transforms World of Warcraft combat-log data into an interactive Power BI dashboard for analyzing raid progression, boss performance, player performance, utility, and survivability.
