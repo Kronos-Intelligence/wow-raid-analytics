@@ -542,11 +542,14 @@ Potential future enhancements include:
 
 # Project Status
 
-**Portfolio Project — Active Development**
+**Portfolio Project — Completed**
 
-The current implementation represents the completed analytical dashboard and supporting data transformation work. Additional automation and analytical capabilities may be added as the project evolves.
+The current implementation includes the completed analytical dashboard,
+supporting Python data-preparation workflow, analytical datasets,
+documentation, and Power BI data model.
 
----
+Future enhancements may include additional automation, historical
+comparisons, and expanded analytical capabilities.
 
 ## Author
 
